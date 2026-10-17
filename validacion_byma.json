@@ -1,0 +1,355 @@
+{
+ "generado": "2026-10-17T00:05:16.322589+00:00",
+ "fecha_datos_byma": "2026-10-16",
+ "fecha_liquidacion": "2026-10-19",
+ "tolerancias": {
+  "tir_pp": 0.05,
+  "dm_anios": 0.01,
+  "ai": 0.01,
+  "vt": 0.01,
+  "par_pp": 0.05
+ },
+ "comparados": 73,
+ "sin_cronograma_confirmado": 298,
+ "max_diferencias": {
+  "tir_pp": 14.3913,
+  "dm_anios": 0.0763,
+  "ai": 1.875,
+  "vt": 10.8421,
+  "par_pp": 12.5661
+ },
+ "instrumentos_fuera_de_tolerancia": 10,
+ "detalle_fuera": [
+  {
+   "ticker": "ARC1O",
+   "campo": "tir_pp",
+   "repo": 7.5992,
+   "byma": 1.8686,
+   "dif": 5.7306
+  },
+  {
+   "ticker": "ARC1O",
+   "campo": "dm_anios",
+   "repo": 2.2644,
+   "byma": 2.1881,
+   "dif": 0.0763
+  },
+  {
+   "ticker": "ARC1O",
+   "campo": "par_pp",
+   "repo": 102.6389,
+   "byma": 115.205,
+   "dif": -12.5661
+  },
+  {
+   "ticker": "ARC1O",
+   "campo": "ai",
+   "repo": 1.8201,
+   "byma": 1.6014,
+   "dif": 0.2187
+  },
+  {
+   "ticker": "ARC1O",
+   "campo": "vt",
+   "repo": 99.4001,
+   "byma": 88.558,
+   "dif": 10.8421
+  },
+  {
+   "ticker": "IRCNO",
+   "campo": "tir_pp",
+   "repo": 5.4029,
+   "byma": 3.9105,
+   "dif": 1.4924
+  },
+  {
+   "ticker": "IRCNO",
+   "campo": "dm_anios",
+   "repo": 0.9198,
+   "byma": 0.9465,
+   "dif": -0.0267
+  },
+  {
+   "ticker": "IRCNO",
+   "campo": "par_pp",
+   "repo": 100.3955,
+   "byma": 101.819,
+   "dif": -1.4235
+  },
+  {
+   "ticker": "IRCNO",
+   "campo": "ai",
+   "repo": 2.8111,
+   "byma": 1.3736,
+   "dif": 1.4375
+  },
+  {
+   "ticker": "IRCNO",
+   "campo": "vt",
+   "repo": 102.8111,
+   "byma": 101.3736,
+   "dif": 1.4375
+  },
+  {
+   "ticker": "IRCOO",
+   "campo": "tir_pp",
+   "repo": 6.5488,
+   "byma": 5.8728,
+   "dif": 0.676
+  },
+  {
+   "ticker": "IRCOO",
+   "campo": "dm_anios",
+   "repo": 2.5074,
+   "byma": 2.5711,
+   "dif": -0.0637
+  },
+  {
+   "ticker": "IRCOO",
+   "campo": "par_pp",
+   "repo": 102.0822,
+   "byma": 103.901,
+   "dif": -1.8188
+  },
+  {
+   "ticker": "IRCOO",
+   "campo": "ai",
+   "repo": 3.5444,
+   "byma": 1.7319,
+   "dif": 1.8125
+  },
+  {
+   "ticker": "IRCOO",
+   "campo": "vt",
+   "repo": 103.5444,
+   "byma": 101.7319,
+   "dif": 1.8125
+  },
+  {
+   "ticker": "PLC1O",
+   "campo": "tir_pp",
+   "repo": 2.357,
+   "byma": 3.559,
+   "dif": -1.202
+  },
+  {
+   "ticker": "PLC1O",
+   "campo": "dm_anios",
+   "repo": 1.2034,
+   "byma": 1.1691,
+   "dif": 0.0343
+  },
+  {
+   "ticker": "PLC1O",
+   "campo": "par_pp",
+   "repo": 104.4875,
+   "byma": 102.964,
+   "dif": 1.5235
+  },
+  {
+   "ticker": "PLC1O",
+   "campo": "ai",
+   "repo": 1.3667,
+   "byma": 2.8667,
+   "dif": -1.5
+  },
+  {
+   "ticker": "PLC1O",
+   "campo": "vt",
+   "repo": 101.3667,
+   "byma": 102.8667,
+   "dif": -1.5
+  },
+  {
+   "ticker": "PLC2O",
+   "campo": "tir_pp",
+   "repo": 5.3299,
+   "byma": 5.9671,
+   "dif": -0.6372
+  },
+  {
+   "ticker": "PLC2O",
+   "campo": "dm_anios",
+   "repo": 2.7842,
+   "byma": 2.7122,
+   "dif": 0.072
+  },
+  {
+   "ticker": "PLC2O",
+   "campo": "par_pp",
+   "repo": 106.507,
+   "byma": 104.579,
+   "dif": 1.928
+  },
+  {
+   "ticker": "PLC2O",
+   "campo": "ai",
+   "repo": 1.7083,
+   "byma": 3.5833,
+   "dif": -1.875
+  },
+  {
+   "ticker": "PLC2O",
+   "campo": "vt",
+   "repo": 101.7083,
+   "byma": 103.5833,
+   "dif": -1.875
+  },
+  {
+   "ticker": "T641O",
+   "campo": "ai",
+   "repo": 1.7336,
+   "byma": 1.7556,
+   "dif": -0.022
+  },
+  {
+   "ticker": "T641O",
+   "campo": "vt",
+   "repo": 101.7336,
+   "byma": 101.7556,
+   "dif": -0.022
+  },
+  {
+   "ticker": "YFCKO",
+   "campo": "tir_pp",
+   "repo": 11.5112,
+   "byma": -2.8801,
+   "dif": 14.3913
+  },
+  {
+   "ticker": "YFCKO",
+   "campo": "dm_anios",
+   "repo": 0.0835,
+   "byma": 0.0959,
+   "dif": -0.0124
+  },
+  {
+   "ticker": "YFCKO",
+   "campo": "par_pp",
+   "repo": 99.4566,
+   "byma": 100.751,
+   "dif": -1.2944
+  },
+  {
+   "ticker": "YFCKO",
+   "campo": "ai",
+   "repo": 2.1437,
+   "byma": 0.8312,
+   "dif": 1.3125
+  },
+  {
+   "ticker": "YFCKO",
+   "campo": "vt",
+   "repo": 102.1437,
+   "byma": 100.8312,
+   "dif": 1.3126
+  },
+  {
+   "ticker": "YM37O",
+   "campo": "tir_pp",
+   "repo": 7.0062,
+   "byma": 3.7077,
+   "dif": 3.2985
+  },
+  {
+   "ticker": "YM37O",
+   "campo": "dm_anios",
+   "repo": 0.4964,
+   "byma": 0.5163,
+   "dif": -0.0199
+  },
+  {
+   "ticker": "YM37O",
+   "campo": "par_pp",
+   "repo": 100.0656,
+   "byma": 101.793,
+   "dif": -1.7274
+  },
+  {
+   "ticker": "YM37O",
+   "campo": "ai",
+   "repo": 3.15,
+   "byma": 1.4,
+   "dif": 1.75
+  },
+  {
+   "ticker": "YM37O",
+   "campo": "vt",
+   "repo": 103.15,
+   "byma": 101.4,
+   "dif": 1.75
+  },
+  {
+   "ticker": "YM38O",
+   "campo": "tir_pp",
+   "repo": 3.1322,
+   "byma": 3.8369,
+   "dif": -0.7047
+  },
+  {
+   "ticker": "YM38O",
+   "campo": "dm_anios",
+   "repo": 0.7172,
+   "byma": 0.7026,
+   "dif": 0.0146
+  },
+  {
+   "ticker": "YM38O",
+   "campo": "par_pp",
+   "repo": 102.8464,
+   "byma": 102.724,
+   "dif": 0.1224
+  },
+  {
+   "ticker": "YM38O",
+   "campo": "ai",
+   "repo": 1.6917,
+   "byma": 1.8125,
+   "dif": -0.1208
+  },
+  {
+   "ticker": "YM38O",
+   "campo": "vt",
+   "repo": 101.6917,
+   "byma": 101.8125,
+   "dif": -0.1208
+  },
+  {
+   "ticker": "YM42O",
+   "campo": "tir_pp",
+   "repo": 5.0909,
+   "byma": 5.8962,
+   "dif": -0.8053
+  },
+  {
+   "ticker": "YM42O",
+   "campo": "dm_anios",
+   "repo": 2.1036,
+   "byma": 2.0497,
+   "dif": 0.0539
+  },
+  {
+   "ticker": "YM42O",
+   "campo": "par_pp",
+   "repo": 104.3041,
+   "byma": 102.526,
+   "dif": 1.7781
+  },
+  {
+   "ticker": "YM42O",
+   "campo": "ai",
+   "repo": 0.9139,
+   "byma": 2.6639,
+   "dif": -1.75
+  },
+  {
+   "ticker": "YM42O",
+   "campo": "vt",
+   "repo": 100.9139,
+   "byma": 102.6639,
+   "dif": -1.75
+  }
+ ],
+ "estado": "alerta",
+ "alerta_enviada": "2026-10-17"
+}
