@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-17T02:11:46.644505+00:00",
+ "generado": "2026-10-19T13:59:25.544232+00:00",
  "fecha_datos_byma": "2026-10-16",
  "fecha_liquidacion": "2026-10-19",
  "tolerancias": {
@@ -9,32 +9,32 @@
   "vt": 0.01,
   "par_pp": 0.05
  },
- "comparados": 68,
- "sin_cronograma_confirmado": 303,
+ "comparados": 111,
+ "sin_cronograma_confirmado": 260,
  "max_diferencias": {
-  "tir_pp": 0.0442,
+  "tir_pp": 0.0429,
   "dm_anios": 0.0063,
-  "ai": 0.022,
-  "vt": 0.022,
-  "par_pp": 0.022
+  "ai": 0.0145,
+  "vt": 0.0145,
+  "par_pp": 0.0146
  },
  "instrumentos_fuera_de_tolerancia": 1,
  "detalle_fuera": [
   {
-   "ticker": "T641O",
+   "ticker": "TTCDO",
    "campo": "ai",
-   "repo": 1.7336,
-   "byma": 1.7556,
-   "dif": -0.022
+   "repo": 3.516,
+   "byma": 3.5305,
+   "dif": -0.0145
   },
   {
-   "ticker": "T641O",
+   "ticker": "TTCDO",
    "campo": "vt",
-   "repo": 101.7336,
-   "byma": 101.7556,
-   "dif": -0.022
+   "repo": 103.516,
+   "byma": 103.5305,
+   "dif": -0.0145
   }
  ],
  "estado": "ok",
- "alerta_enviada": "2026-10-17"
+ "alerta_enviada": null
 }
