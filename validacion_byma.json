@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-19T13:59:25.544232+00:00",
+ "generado": "2026-10-19T19:37:36.269858+00:00",
  "fecha_datos_byma": "2026-10-16",
  "fecha_liquidacion": "2026-10-19",
  "tolerancias": {
@@ -9,8 +9,8 @@
   "vt": 0.01,
   "par_pp": 0.05
  },
- "comparados": 111,
- "sin_cronograma_confirmado": 260,
+ "comparados": 113,
+ "sin_cronograma_confirmado": 258,
  "max_diferencias": {
   "tir_pp": 0.0429,
   "dm_anios": 0.0063,
