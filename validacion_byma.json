@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-19T19:37:36.269858+00:00",
- "fecha_datos_byma": "2026-10-16",
- "fecha_liquidacion": "2026-10-19",
+ "generado": "2026-10-20T13:59:18.541664+00:00",
+ "fecha_datos_byma": "2026-10-19",
+ "fecha_liquidacion": "2026-10-20",
  "tolerancias": {
   "tir_pp": 0.05,
   "dm_anios": 0.01,
@@ -12,27 +12,27 @@
  "comparados": 113,
  "sin_cronograma_confirmado": 258,
  "max_diferencias": {
-  "tir_pp": 0.0429,
-  "dm_anios": 0.0063,
-  "ai": 0.0145,
-  "vt": 0.0145,
-  "par_pp": 0.0146
+  "tir_pp": 0.0419,
+  "dm_anios": 0.0062,
+  "ai": 0.0142,
+  "vt": 0.0142,
+  "par_pp": 0.0135
  },
  "instrumentos_fuera_de_tolerancia": 1,
  "detalle_fuera": [
   {
    "ticker": "TTCDO",
    "campo": "ai",
-   "repo": 3.516,
-   "byma": 3.5305,
-   "dif": -0.0145
+   "repo": 3.5372,
+   "byma": 3.5514,
+   "dif": -0.0142
   },
   {
    "ticker": "TTCDO",
    "campo": "vt",
-   "repo": 103.516,
-   "byma": 103.5305,
-   "dif": -0.0145
+   "repo": 103.5372,
+   "byma": 103.5514,
+   "dif": -0.0142
   }
  ],
  "estado": "ok",
