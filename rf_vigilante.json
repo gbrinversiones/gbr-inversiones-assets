@@ -101,6 +101,7 @@
   "MGCQO",
   "MGCTO",
   "MGCUO",
+  "MIC3O",
   "MIC4O",
   "MIC6O",
   "MJC1O",
@@ -109,6 +110,7 @@
   "MR45O",
   "MR46O",
   "MR47O",
+  "MR48O",
   "MR49O",
   "MR50O",
   "MSSFO",
@@ -160,6 +162,7 @@
   "RCCRO",
   "RUCEO",
   "RVS1O",
+  "RZ9AO",
   "RZ9BO",
   "RZABO",
   "RZBAO",
@@ -175,6 +178,7 @@
   "SNEAO",
   "SNEBO",
   "SNSDO",
+  "STCFO",
   "SXC3O",
   "T661O",
   "T672O",
@@ -191,6 +195,7 @@
   "TTCBO",
   "TTCDO",
   "TTCEO",
+  "TY40O",
   "VBC1O",
   "VMC1O",
   "VSCIO",
@@ -240,7 +245,9 @@
   "3581757",
   "3581758",
   "3581790",
-  "3581801"
+  "3581801",
+  "3581996",
+  "3582240"
  ],
- "actualizado": "2026-10-19T13:49:36.211887+00:00"
+ "actualizado": "2026-10-20T13:49:08.973622+00:00"
 }
