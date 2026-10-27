@@ -96,6 +96,93 @@
    "vencimiento": "2030-04-14",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff",
    "cargada": "2026-10-26"
+  },
+  "RUCEO": {
+   "filas": [
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-02-09",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-04-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-07-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-10-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-01-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-04-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-07-30",
+     "pct_amortizacion": 50.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "RUCEO",
+     "nombre": "MSU ENERGY S.A. - Clase XIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-10-30",
+     "pct_amortizacion": 50.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1 (2026-02-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    }
+   ],
+   "vencimiento": "2027-10-30",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1",
+   "cargada": "2026-10-26"
   }
  },
  "cuarentena": {
@@ -148,7 +235,57 @@
    "intentos": 1,
    "emisor": "VISTA ENERGY ARGENTINA S.A.U.",
    "clase": "Clase XXIV"
+  },
+  "OZC3O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "EDEMSA S.A.",
+   "clase": "Clase III"
+  },
+  "MGCUO": {
+   "motivos": [
+    "cita_amortizacion no figura textualmente en el aviso"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "PAMPA ENERGIA S.A.",
+   "clase": "Clase XXVIII"
+  },
+  "MIC6O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "MIRGOR S.A.C.I.F.I.A.",
+   "clase": "Clase VI"
+  },
+  "ZZC1O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "CAMUZZI GAS PAMPEANA S.A.",
+   "clase": "Clase I"
+  },
+  "MGCNO": {
+   "motivos": [
+    "cita_amortizacion no figura textualmente en el aviso"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "PAMPA ENERGIA S.A.",
+   "clase": "Clase XXII"
   }
  },
- "actualizado": "2026-10-27T00:47:58.593150+00:00"
+ "actualizado": "2026-10-27T13:51:23.757934+00:00"
 }
