@@ -1,0 +1,154 @@
+{
+ "cargadas": {
+  "YM43O": {
+   "filas": [
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2026-04-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2027-01-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2027-07-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2028-01-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2028-07-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2029-01-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2029-07-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2030-01-14",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    },
+    {
+     "ticker": "YM43O",
+     "nombre": "YPF S.A. - Clase XLIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2030-04-14",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff (2026-04-09); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-26]"
+    }
+   ],
+   "vencimiento": "2030-04-14",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/c28d8036-5918-4326-86e1-99265eef9aff",
+   "cargada": "2026-10-26"
+  }
+ },
+ "cuarentena": {
+  "VMC1O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "VACA MUERTA OIL SUR S.A.",
+   "clase": "Clase I"
+  },
+  "DNC3O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "EDENOR S.A.",
+   "clase": "Clase III"
+  },
+  "BYCWO": {
+   "motivos": [
+    "el numero de la tasa no aparece en su cita"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+   "clase": "Clase XXX"
+  },
+  "RC1CO": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "ARCOR S.A.I.C.",
+   "clase": "Clase I"
+  },
+  "VSCPO": {
+   "motivos": [
+    "las amortizaciones futuras del aviso no coinciden con las de BYMA"
+   ],
+   "desde": "2026-10-26",
+   "ultimo_intento": "2026-10-26",
+   "intentos": 1,
+   "emisor": "VISTA ENERGY ARGENTINA S.A.U.",
+   "clase": "Clase XXIV"
+  }
+ },
+ "actualizado": "2026-10-27T00:47:58.593150+00:00"
+}
