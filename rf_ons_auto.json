@@ -183,6 +183,217 @@
    "vencimiento": "2027-10-30",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/2176bf11-4076-4df7-ab14-884cc43a53a1",
    "cargada": "2026-10-26"
+  },
+  "BGC4O": {
+   "filas": [
+    {
+     "ticker": "BGC4O",
+     "nombre": "BANCO PATAGONIA S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2025-11-13",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6d49d84e-db7a-4529-b38a-b1bcfd517f90 (2025-11-11); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BGC4O",
+     "nombre": "BANCO PATAGONIA S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2026-05-13",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6d49d84e-db7a-4529-b38a-b1bcfd517f90 (2025-11-11); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BGC4O",
+     "nombre": "BANCO PATAGONIA S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2026-11-13",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6d49d84e-db7a-4529-b38a-b1bcfd517f90 (2025-11-11); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    }
+   ],
+   "vencimiento": "2026-11-13",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/6d49d84e-db7a-4529-b38a-b1bcfd517f90",
+   "cargada": "2026-10-27"
+  },
+  "BYCHO": {
+   "filas": [
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2024-10-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2025-04-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2025-10-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-04-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-10-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-04-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-10-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2028-04-10",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "BYCHO",
+     "nombre": "BANCO DE GALICIA Y BUENOS AIRES S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2028-10-10",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b (2024-10-04); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    }
+   ],
+   "vencimiento": "2028-10-10",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/3561e1f5-13de-440e-aa75-d634eff6ad1b",
+   "cargada": "2026-10-27"
+  },
+  "VSCZO": {
+   "filas": [
+    {
+     "ticker": "VSCZO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXXIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2026-07-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2 (2026-07-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "VSCZO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXXIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2027-01-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2 (2026-07-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "VSCZO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXXIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2027-07-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2 (2026-07-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "VSCZO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXXIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2028-01-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2 (2026-07-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "VSCZO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXXIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2028-07-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2 (2026-07-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "VSCZO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXXIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2029-01-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2 (2026-07-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    },
+    {
+     "ticker": "VSCZO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXXIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2029-07-16",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2 (2026-07-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-27]"
+    }
+   ],
+   "vencimiento": "2029-07-16",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2",
+   "cargada": "2026-10-27"
   }
  },
  "cuarentena": {
@@ -285,7 +496,37 @@
    "intentos": 1,
    "emisor": "PAMPA ENERGIA S.A.",
    "clase": "Clase XXII"
+  },
+  "OLC6O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-27",
+   "ultimo_intento": "2026-10-27",
+   "intentos": 1,
+   "emisor": "OLEODUCTOS DEL VALLE S.A.",
+   "clase": "Clase VI"
+  },
+  "AEC3O": {
+   "motivos": [
+    "cita_amortizacion no figura textualmente en el aviso"
+   ],
+   "desde": "2026-10-27",
+   "ultimo_intento": "2026-10-27",
+   "intentos": 1,
+   "emisor": "AES ARGENTINA GENERACION S.A.",
+   "clase": "Clase III"
+  },
+  "BYCXO": {
+   "motivos": [
+    "el numero de la tasa no aparece en su cita"
+   ],
+   "desde": "2026-10-27",
+   "ultimo_intento": "2026-10-27",
+   "intentos": 1,
+   "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+   "clase": "Clase XXXI"
   }
  },
- "actualizado": "2026-10-27T13:51:23.757934+00:00"
+ "actualizado": "2026-10-28T13:53:26.050973+00:00"
 }
