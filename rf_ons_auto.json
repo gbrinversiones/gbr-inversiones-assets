@@ -394,6 +394,287 @@
    "vencimiento": "2029-07-16",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/59cc5f5f-80ee-4226-8b7c-1ac3626d56c2",
    "cargada": "2026-10-27"
+  },
+  "PFC3O": {
+   "filas": [
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2026-05-08",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2026-11-08",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2027-05-08",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2027-11-08",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2028-05-08",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2028-11-08",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2029-05-08",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "PFC3O",
+     "nombre": "PROFERTIL S.A. - Clase III - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2029-11-08",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984 (2026-05-06); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    }
+   ],
+   "vencimiento": "2029-11-08",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/4fe55ba6-dc2f-4ac6-8012-48012ddea984",
+   "cargada": "2026-10-29"
+  },
+  "VSCUO": {
+   "filas": [
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-03-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-09-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-03-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-09-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-03-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-09-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2028-03-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2028-09-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2029-03-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2029-09-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "VSCUO",
+     "nombre": "VISTA ENERGY ARGENTINA S.A.U. - Clase XXVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2030-03-07",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e (2025-03-05); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    }
+   ],
+   "vencimiento": "2030-03-07",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/da69033e-eaf3-42d2-a411-d7afb3ca631e",
+   "cargada": "2026-10-29"
+  },
+  "HJCHO": {
+   "filas": [
+    {
+     "ticker": "HJCHO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2025-01-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e (2025-01-14); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "HJCHO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2025-07-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e (2025-01-14); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "HJCHO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2026-01-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e (2025-01-14); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "HJCHO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2026-07-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e (2025-01-14); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "HJCHO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2027-01-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e (2025-01-14); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "HJCHO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2027-07-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e (2025-01-14); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    },
+    {
+     "ticker": "HJCHO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XVI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2028-01-17",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e (2025-01-14); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-29]"
+    }
+   ],
+   "vencimiento": "2028-01-17",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e",
+   "cargada": "2026-10-29"
   }
  },
  "cuarentena": {
@@ -526,7 +807,38 @@
    "intentos": 1,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXXI"
+  },
+  "CS50O": {
+   "motivos": [
+    "el numero de la tasa no aparece en su cita"
+   ],
+   "desde": "2026-10-29",
+   "ultimo_intento": "2026-10-29",
+   "intentos": 1,
+   "emisor": "CRESUD S.A.C.I.F.A.",
+   "clase": "Clase L - Serie XXXIV"
+  },
+  "RCCRO": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-29",
+   "ultimo_intento": "2026-10-29",
+   "intentos": 1,
+   "emisor": "ARCOR S.A.I.C.",
+   "clase": "Clase XXVI"
+  },
+  "CS53O": {
+   "motivos": [
+    "cita_pagos no figura textualmente en el aviso",
+    "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2027-04-30', '2027-10-30', '2028-04-30'], solo BYMA: ['2027-07-30', '2028-01-30', '2028-07-30'])"
+   ],
+   "desde": "2026-10-29",
+   "ultimo_intento": "2026-10-29",
+   "intentos": 1,
+   "emisor": "CRESUD S.A.C.I.F.A.",
+   "clase": "Clase LIII - Serie XXXVI"
   }
  },
- "actualizado": "2026-10-28T13:53:26.050973+00:00"
+ "actualizado": "2026-10-30T13:50:59.225890+00:00"
 }
