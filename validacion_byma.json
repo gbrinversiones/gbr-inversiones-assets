@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-28T19:15:42.106112+00:00",
- "fecha_datos_byma": "2026-10-27",
- "fecha_liquidacion": "2026-10-28",
+ "generado": "2026-10-30T13:54:30.013045+00:00",
+ "fecha_datos_byma": "2026-10-29",
+ "fecha_liquidacion": "2026-10-30",
  "tolerancias": {
   "tir_pp": 0.05,
   "dm_anios": 0.01,
@@ -10,31 +10,129 @@
   "par_pp": 0.05
  },
  "comparados": 112,
- "sin_cronograma_confirmado": 256,
+ "sin_cronograma_confirmado": 253,
  "max_diferencias": {
-  "tir_pp": 0.0423,
-  "dm_anios": 0.0062,
-  "ai": 0.0119,
-  "vt": 0.0119,
-  "par_pp": 0.0116
+  "tir_pp": 0.5128,
+  "dm_anios": 0.0192,
+  "ai": 0.5,
+  "vt": 0.5,
+  "par_pp": 0.5151
  },
- "instrumentos_fuera_de_tolerancia": 1,
+ "instrumentos_fuera_de_tolerancia": 4,
  "detalle_fuera": [
   {
    "ticker": "TTCDO",
    "campo": "ai",
-   "repo": 3.7066,
-   "byma": 3.7185,
-   "dif": -0.0119
+   "repo": 3.749,
+   "byma": 3.7603,
+   "dif": -0.0113
   },
   {
    "ticker": "TTCDO",
    "campo": "vt",
-   "repo": 103.7066,
-   "byma": 103.7185,
-   "dif": -0.0119
+   "repo": 103.749,
+   "byma": 103.7603,
+   "dif": -0.0113
+  },
+  {
+   "ticker": "AO27",
+   "campo": "tir_pp",
+   "repo": 3.0727,
+   "byma": 2.5599,
+   "dif": 0.5128
+  },
+  {
+   "ticker": "AO27",
+   "campo": "par_pp",
+   "repo": 102.9149,
+   "byma": 103.43,
+   "dif": -0.5151
+  },
+  {
+   "ticker": "AO27",
+   "campo": "ai",
+   "repo": 0.5,
+   "byma": 0.0,
+   "dif": 0.5
+  },
+  {
+   "ticker": "AO27",
+   "campo": "vt",
+   "repo": 100.5,
+   "byma": 100.0,
+   "dif": 0.5
+  },
+  {
+   "ticker": "AO28",
+   "campo": "tir_pp",
+   "repo": 12.6124,
+   "byma": 12.3089,
+   "dif": 0.3035
+  },
+  {
+   "ticker": "AO28",
+   "campo": "dm_anios",
+   "repo": 1.6659,
+   "byma": 1.6798,
+   "dif": -0.0139
+  },
+  {
+   "ticker": "AO28",
+   "campo": "par_pp",
+   "repo": 89.4816,
+   "byma": 89.929,
+   "dif": -0.4474
+  },
+  {
+   "ticker": "AO28",
+   "campo": "ai",
+   "repo": 0.5,
+   "byma": 0.0,
+   "dif": 0.5
+  },
+  {
+   "ticker": "AO28",
+   "campo": "vt",
+   "repo": 100.5,
+   "byma": 100.0,
+   "dif": 0.5
+  },
+  {
+   "ticker": "AO29",
+   "campo": "tir_pp",
+   "repo": 13.9103,
+   "byma": 13.6912,
+   "dif": 0.2191
+  },
+  {
+   "ticker": "AO29",
+   "campo": "dm_anios",
+   "repo": 2.3781,
+   "byma": 2.3973,
+   "dif": -0.0192
+  },
+  {
+   "ticker": "AO29",
+   "campo": "par_pp",
+   "repo": 82.5102,
+   "byma": 82.923,
+   "dif": -0.4128
+  },
+  {
+   "ticker": "AO29",
+   "campo": "ai",
+   "repo": 0.5,
+   "byma": 0.0,
+   "dif": 0.5
+  },
+  {
+   "ticker": "AO29",
+   "campo": "vt",
+   "repo": 100.5,
+   "byma": 100.0,
+   "dif": 0.5
   }
  ],
- "estado": "ok",
- "alerta_enviada": null
+ "estado": "alerta",
+ "alerta_enviada": "2026-10-30"
 }
