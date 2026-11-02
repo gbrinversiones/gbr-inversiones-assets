@@ -675,6 +675,491 @@
    "vencimiento": "2028-01-17",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/eb959c63-52ca-42ab-a765-3df4f08b625e",
    "cargada": "2026-10-29"
+  },
+  "YM40O": {
+   "filas": [
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-08-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-11-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-02-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-05-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-08-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-11-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-02-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-05-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-08-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-11-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2028-02-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2028-05-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "YM40O",
+     "nombre": "YPF S.A. - Clase XL - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2028-08-28",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0 (2025-08-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    }
+   ],
+   "vencimiento": "2028-08-28",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/19dc7488-dd93-4eba-b5de-b204e8039ab0",
+   "cargada": "2026-10-30"
+  },
+  "TTC8O": {
+   "filas": [
+    {
+     "ticker": "TTC8O",
+     "nombre": "TECPETROL S.A. - Clase VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2024-10-24",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd (2024-10-22); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "TTC8O",
+     "nombre": "TECPETROL S.A. - Clase VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2025-04-24",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd (2024-10-22); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "TTC8O",
+     "nombre": "TECPETROL S.A. - Clase VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2025-10-24",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd (2024-10-22); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "TTC8O",
+     "nombre": "TECPETROL S.A. - Clase VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2026-04-24",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd (2024-10-22); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "TTC8O",
+     "nombre": "TECPETROL S.A. - Clase VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2026-10-24",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd (2024-10-22); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "TTC8O",
+     "nombre": "TECPETROL S.A. - Clase VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2027-04-24",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd (2024-10-22); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "TTC8O",
+     "nombre": "TECPETROL S.A. - Clase VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.0,
+     "fecha_pago": "2027-10-24",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd (2024-10-22); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    }
+   ],
+   "vencimiento": "2027-10-24",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/412e336c-6095-436c-837f-1a36cc01bffd",
+   "cargada": "2026-10-30"
+  },
+  "CICAO": {
+   "filas": [
+    {
+     "ticker": "CICAO",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase X - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2025-12-03",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/91f91a95-0235-4544-9ae0-0a53e1ad29b4 (2025-12-01); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "CICAO",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase X - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-06-03",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/91f91a95-0235-4544-9ae0-0a53e1ad29b4 (2025-12-01); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "CICAO",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase X - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-12-03",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/91f91a95-0235-4544-9ae0-0a53e1ad29b4 (2025-12-01); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "CICAO",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase X - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-06-03",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/91f91a95-0235-4544-9ae0-0a53e1ad29b4 (2025-12-01); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "CICAO",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase X - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-12-03",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/91f91a95-0235-4544-9ae0-0a53e1ad29b4 (2025-12-01); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "CICAO",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase X - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2028-06-03",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/91f91a95-0235-4544-9ae0-0a53e1ad29b4 (2025-12-01); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    }
+   ],
+   "vencimiento": "2028-06-03",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/91f91a95-0235-4544-9ae0-0a53e1ad29b4",
+   "cargada": "2026-10-30"
+  },
+  "HJCKO": {
+   "filas": [
+    {
+     "ticker": "HJCKO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-01-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f (2026-01-13); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "HJCKO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-07-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f (2026-01-13); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "HJCKO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-01-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f (2026-01-13); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "HJCKO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-07-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f (2026-01-13); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "HJCKO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2028-01-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f (2026-01-13); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "HJCKO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2028-07-16",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f (2026-01-13); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "HJCKO",
+     "nombre": "JOHN DEERE CREDIT COMPAÑIA FINANCIERA S.A. - Clase XIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2029-01-16",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f (2026-01-13); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    }
+   ],
+   "vencimiento": "2029-01-16",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/c1a615d5-23bf-4478-a2b1-94208c649a7f",
+   "cargada": "2026-10-30"
+  },
+  "LMS8O": {
+   "filas": [
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2024-03-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2024-09-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2024-12-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2025-03-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2025-06-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2025-09-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2025-12-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2026-03-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2026-06-21",
+     "pct_amortizacion": 25.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2026-09-21",
+     "pct_amortizacion": 25.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2026-12-21",
+     "pct_amortizacion": 25.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    },
+    {
+     "ticker": "LMS8O",
+     "nombre": "ALUMINIO ARGENTINO S.A.I.C - Serie VIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.25,
+     "fecha_pago": "2027-03-21",
+     "pct_amortizacion": 25.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84 (2024-03-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-10-30]"
+    }
+   ],
+   "vencimiento": "2027-03-21",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/46355bd5-12e2-4d4a-af11-a425fb39bd84",
+   "cargada": "2026-10-30"
   }
  },
  "cuarentena": {
@@ -838,7 +1323,17 @@
    "intentos": 1,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase LIII - Serie XXXVI"
+  },
+  "DEC2O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-10-30",
+   "ultimo_intento": "2026-10-30",
+   "intentos": 1,
+   "emisor": "EDESA S.A.",
+   "clase": "Clase II"
   }
  },
- "actualizado": "2026-10-30T13:50:59.225890+00:00"
+ "actualizado": "2026-11-02T13:52:26.355548+00:00"
 }
