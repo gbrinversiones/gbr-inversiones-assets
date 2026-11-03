@@ -1168,8 +1168,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-10-26",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-02",
+   "intentos": 2,
    "emisor": "VACA MUERTA OIL SUR S.A.",
    "clase": "Clase I"
   },
@@ -1178,8 +1178,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-10-26",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-02",
+   "intentos": 2,
    "emisor": "EDENOR S.A.",
    "clase": "Clase III"
   },
@@ -1188,8 +1188,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-10-26",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-02",
+   "intentos": 2,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXX"
   },
@@ -1198,18 +1198,19 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-10-26",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-02",
+   "intentos": 2,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase I"
   },
   "VSCPO": {
    "motivos": [
+    "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2026-11-03'], solo BYMA: [])",
     "las amortizaciones futuras del aviso no coinciden con las de BYMA"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-10-26",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-02",
+   "intentos": 2,
    "emisor": "VISTA ENERGY ARGENTINA S.A.U.",
    "clase": "Clase XXIV"
   },
@@ -1255,11 +1256,11 @@
   },
   "MGCNO": {
    "motivos": [
-    "cita_amortizacion no figura textualmente en el aviso"
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-10-26",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-02",
+   "intentos": 2,
    "emisor": "PAMPA ENERGIA S.A.",
    "clase": "Clase XXII"
   },
@@ -1335,5 +1336,5 @@
    "clase": "Clase II"
   }
  },
- "actualizado": "2026-11-02T13:52:26.355548+00:00"
+ "actualizado": "2026-11-03T13:56:30.977452+00:00"
 }
