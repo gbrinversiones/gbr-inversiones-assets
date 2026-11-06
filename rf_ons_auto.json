@@ -1652,6 +1652,43 @@
    "vencimiento": "2028-06-22",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/04735d0d-f67d-4649-b3f0-ef091f348d04",
    "cargada": "2026-11-04"
+  },
+  "BF39O": {
+   "filas": [
+    {
+     "ticker": "BF39O",
+     "nombre": "BANCO BBVA ARGENTINA S.A. - Clase XXXIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2025-12-05",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/21af54d7-647b-49a8-bd4e-43ee651127e8 (2025-12-03); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-05]"
+    },
+    {
+     "ticker": "BF39O",
+     "nombre": "BANCO BBVA ARGENTINA S.A. - Clase XXXIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2026-06-05",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/21af54d7-647b-49a8-bd4e-43ee651127e8 (2025-12-03); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-05]"
+    },
+    {
+     "ticker": "BF39O",
+     "nombre": "BANCO BBVA ARGENTINA S.A. - Clase XXXIX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2026-12-05",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/21af54d7-647b-49a8-bd4e-43ee651127e8 (2025-12-03); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-05]"
+    }
+   ],
+   "vencimiento": "2026-12-05",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/21af54d7-647b-49a8-bd4e-43ee651127e8",
+   "cargada": "2026-11-05"
   }
  },
  "cuarentena": {
@@ -1781,8 +1818,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-10-29",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-05",
+   "intentos": 2,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase L - Serie XXXIV"
   },
@@ -1791,19 +1828,21 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-10-29",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-05",
+   "intentos": 2,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase XXVI"
   },
   "CS53O": {
    "motivos": [
+    "cita_vencimiento no figura textualmente en el aviso",
     "cita_pagos no figura textualmente en el aviso",
+    "cita_amortizacion no figura textualmente en el aviso",
     "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2027-04-30', '2027-10-30', '2028-04-30'], solo BYMA: ['2027-07-30', '2028-01-30', '2028-07-30'])"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-10-29",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-05",
+   "intentos": 2,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase LIII - Serie XXXVI"
   },
@@ -1877,7 +1916,27 @@
    "intentos": 1,
    "emisor": "COMPAÑIA GENERAL DE COMBUSTIBLES S.A.",
    "clase": "Clase XXXVI"
+  },
+  "OZC8O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-05",
+   "ultimo_intento": "2026-11-05",
+   "intentos": 1,
+   "emisor": "EDEMSA S.A.",
+   "clase": "Clase VIII"
+  },
+  "PFC2O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-05",
+   "ultimo_intento": "2026-11-05",
+   "intentos": 1,
+   "emisor": "PROFERTIL S.A.",
+   "clase": "Clase II"
   }
  },
- "actualizado": "2026-11-05T15:24:48.184625+00:00"
+ "actualizado": "2026-11-06T13:47:55.592625+00:00"
 }
