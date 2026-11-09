@@ -1851,8 +1851,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-30",
-   "ultimo_intento": "2026-10-30",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-06",
+   "intentos": 2,
    "emisor": "EDESA S.A.",
    "clase": "Clase II"
   },
@@ -1936,7 +1936,65 @@
    "intentos": 1,
    "emisor": "PROFERTIL S.A.",
    "clase": "Clase II"
+  },
+  "CACDO": {
+   "motivos": [
+    "ai: repo 3.5521 vs BYMA 3.5979 (dif -0.0458)",
+    "vt: repo 103.5521 vs BYMA 103.5979 (dif -0.0458)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "CAPEX S.A.",
+   "clase": "Clase XII"
+  },
+  "CS52O": {
+   "motivos": [
+    "cita_pagos no figura textualmente en el aviso",
+    "cita_amortizacion no figura textualmente en el aviso",
+    "el numero de la tasa no aparece en su cita",
+    "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2027-04-30', '2027-10-30'], solo BYMA: ['2027-07-30', '2028-01-30'])"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "CRESUD S.A.C.I.F.A.",
+   "clase": "Clase LII - Serie XXXVI"
+  },
+  "YFCLO": {
+   "motivos": [
+    "cita_pagos no figura textualmente en el aviso",
+    "cita_amortizacion no figura textualmente en el aviso"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "YPF ENERGIA ELECTRICA S.A.",
+   "clase": "Clase XX"
+  },
+  "AERBO": {
+   "motivos": [
+    "tir_pp: repo 29.2281 vs BYMA 31.1918 (dif -1.9637)",
+    "ai: repo 2.0778 vs BYMA 2.1083 (dif -0.0305)",
+    "vt: repo 102.0778 vs BYMA 102.1083 (dif -0.0305)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "AEROPUERTOS ARGENTINA 2000 S.A.",
+   "clase": "Clase XI"
+  },
+  "SBC3O": {
+   "motivos": [
+    "ai: repo 2.9431 vs BYMA 2.9792 (dif -0.0361)",
+    "vt: repo 102.9431 vs BYMA 102.9792 (dif -0.0361)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "SCANIA CREDIT ARGENTINA S.A.U.",
+   "clase": "Clase III"
   }
  },
- "actualizado": "2026-11-06T13:47:55.592625+00:00"
+ "actualizado": "2026-11-09T13:48:20.037287+00:00"
 }
