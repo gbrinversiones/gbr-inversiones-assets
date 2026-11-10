@@ -1994,7 +1994,71 @@
    "intentos": 1,
    "emisor": "SCANIA CREDIT ARGENTINA S.A.U.",
    "clase": "Clase III"
+  },
+  "PN34O": {
+   "motivos": [
+    "ai: repo 0.5798 vs BYMA 0.6074 (dif -0.0276)",
+    "vt: repo 100.5798 vs BYMA 100.6074 (dif -0.0276)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "PAN AMERICAN ENERGY S.A.",
+   "clase": "Clase XXXIV"
+  },
+  "RC5CO": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "ARCOR S.A.I.C.",
+   "clase": "Clase V"
+  },
+  "YFCMO": {
+   "motivos": [
+    "ai: repo 1.4264 vs BYMA 1.4625 (dif -0.0361)",
+    "vt: repo 101.4264 vs BYMA 101.4625 (dif -0.0361)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "YPF ENERGIA ELECTRICA S.A.",
+   "clase": "Clase XXI"
+  },
+  "IRCJO": {
+   "motivos": [
+    "tir_pp: repo 4.4888 vs BYMA 4.5732 (dif -0.0844)",
+    "ai: repo 1.3806 vs BYMA 1.4194 (dif -0.0388)",
+    "vt: repo 101.3806 vs BYMA 101.4194 (dif -0.0388)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "INVERSIONES Y REPRESENTACIONES S.A.",
+   "clase": "Clase XVIII"
+  },
+  "EMC1O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "COMPAÑIA MEGA S.A.",
+   "clase": "Clase I"
+  },
+  "VBC1O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "BANCO DE VALORES S.A.",
+   "clase": "Serie I"
   }
  },
- "actualizado": "2026-11-09T13:48:20.037287+00:00"
+ "actualizado": "2026-11-10T13:48:50.500291+00:00"
 }
