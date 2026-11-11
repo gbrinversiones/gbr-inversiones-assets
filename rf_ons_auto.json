@@ -2058,7 +2058,74 @@
    "intentos": 1,
    "emisor": "BANCO DE VALORES S.A.",
    "clase": "Serie I"
+  },
+  "YFCPO": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "YPF ENERGIA ELECTRICA S.A.",
+   "clase": "Clase XXIV"
+  },
+  "CACBO": {
+   "motivos": [
+    "ai: repo 1.1194 vs BYMA 1.1625 (dif -0.0431)",
+    "vt: repo 101.1194 vs BYMA 101.1625 (dif -0.0431)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "CAPEX S.A.",
+   "clase": "Clase XI"
+  },
+  "YCAMO": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "YPF S.A.",
+   "clase": "Clase LIII"
+  },
+  "LUC5O": {
+   "motivos": [
+    "ai: repo 1.6222 vs BYMA 1.6667 (dif -0.0445)",
+    "vt: repo 101.6222 vs BYMA 101.6667 (dif -0.0445)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "LUZ DE TRES PICOS S.A.",
+   "clase": "Clase V"
+  },
+  "LMS7O": {
+   "motivos": [
+    "cita_pagos no figura textualmente en el aviso",
+    "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: [], solo BYMA: ['2028-07-12'])",
+    "las amortizaciones futuras del aviso no coinciden con las de BYMA",
+    "saldo residual de BYMA 66.68 distinto del que surge del aviso 100.0"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "ALUMINIO ARGENTINO S.A.I.C",
+   "clase": "Serie VII"
+  },
+  "MSSFO": {
+   "motivos": [
+    "tir_pp: repo 6.2913 vs BYMA 6.3437 (dif -0.0524)",
+    "ai: repo 2.2083 vs BYMA 2.25 (dif -0.0417)",
+    "vt: repo 102.2083 vs BYMA 102.25 (dif -0.0417)"
+   ],
+   "desde": "2026-11-06",
+   "ultimo_intento": "2026-11-06",
+   "intentos": 1,
+   "emisor": "MSU S.A.",
+   "clase": "Serie XIV"
   }
  },
- "actualizado": "2026-11-10T13:48:50.500291+00:00"
+ "actualizado": "2026-11-11T13:49:42.298823+00:00"
 }
