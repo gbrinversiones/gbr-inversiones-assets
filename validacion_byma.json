@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-10T20:41:43.162171+00:00",
+ "generado": "2026-11-11T13:57:36.390940+00:00",
  "fecha_datos_byma": "2026-11-06",
  "fecha_liquidacion": "2026-11-09",
  "tolerancias": {
@@ -442,5 +442,5 @@
   }
  ],
  "estado": "alerta",
- "alerta_enviada": "2026-11-10"
+ "alerta_enviada": "2026-11-11"
 }
