@@ -1689,6 +1689,103 @@
    "vencimiento": "2026-12-05",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/21af54d7-647b-49a8-bd4e-43ee651127e8",
    "cargada": "2026-11-05"
+  },
+  "MGCNO": {
+   "filas": [
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2024-10-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2025-04-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2025-10-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2026-04-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2026-10-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2027-04-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2027-10-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2028-04-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    },
+    {
+     "ticker": "MGCNO",
+     "nombre": "PAMPA ENERGIA S.A. - Clase XXII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.75,
+     "fecha_pago": "2028-10-04",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f (2024-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-11]"
+    }
+   ],
+   "vencimiento": "2028-10-04",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f",
+   "cargada": "2026-11-11"
   }
  },
  "cuarentena": {
@@ -1697,8 +1794,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-02",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-11",
+   "intentos": 3,
    "emisor": "VACA MUERTA OIL SUR S.A.",
    "clase": "Clase I"
   },
@@ -1707,8 +1804,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-02",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-11",
+   "intentos": 3,
    "emisor": "EDENOR S.A.",
    "clase": "Clase III"
   },
@@ -1717,8 +1814,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-02",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-11",
+   "intentos": 3,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXX"
   },
@@ -1734,12 +1831,11 @@
   },
   "VSCPO": {
    "motivos": [
-    "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2026-11-03'], solo BYMA: [])",
-    "las amortizaciones futuras del aviso no coinciden con las de BYMA"
+    "cita_tasa no figura textualmente en el aviso"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-02",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-11",
+   "intentos": 3,
    "emisor": "VISTA ENERGY ARGENTINA S.A.U.",
    "clase": "Clase XXIV"
   },
@@ -1748,8 +1844,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-03",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-11",
+   "intentos": 3,
    "emisor": "EDEMSA S.A.",
    "clase": "Clase III"
   },
@@ -1782,16 +1878,6 @@
    "intentos": 2,
    "emisor": "CAMUZZI GAS PAMPEANA S.A.",
    "clase": "Clase I"
-  },
-  "MGCNO": {
-   "motivos": [
-    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
-   ],
-   "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-02",
-   "intentos": 2,
-   "emisor": "PAMPA ENERGIA S.A.",
-   "clase": "Clase XXII"
   },
   "OLC6O": {
    "motivos": [
@@ -2127,5 +2213,5 @@
    "clase": "Serie XIV"
   }
  },
- "actualizado": "2026-11-11T13:49:42.298823+00:00"
+ "actualizado": "2026-11-12T13:50:30.684559+00:00"
 }
