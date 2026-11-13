@@ -1824,8 +1824,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-02",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-12",
+   "intentos": 3,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase I"
   },
@@ -1854,8 +1854,8 @@
     "cita_amortizacion no figura textualmente en el aviso"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-03",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-12",
+   "intentos": 3,
    "emisor": "PAMPA ENERGIA S.A.",
    "clase": "Clase XXVIII"
   },
@@ -1884,8 +1884,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-27",
-   "ultimo_intento": "2026-11-03",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-12",
+   "intentos": 3,
    "emisor": "OLEODUCTOS DEL VALLE S.A.",
    "clase": "Clase VI"
   },
@@ -1904,8 +1904,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-11-05",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-12",
+   "intentos": 3,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase L - Serie XXXIV"
   },
@@ -1914,8 +1914,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-11-05",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-12",
+   "intentos": 3,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase XXVI"
   },
@@ -1954,11 +1954,12 @@
   },
   "TLCQO": {
    "motivos": [
+    "cita_pagos no figura textualmente en el aviso",
     "cita_amortizacion no figura textualmente en el aviso"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-04",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-12",
+   "intentos": 2,
    "emisor": "TELECOM ARGENTINA S.A.",
    "clase": "Clase XXV"
   },
@@ -2213,5 +2214,5 @@
    "clase": "Serie XIV"
   }
  },
- "actualizado": "2026-11-12T13:50:30.684559+00:00"
+ "actualizado": "2026-11-13T13:49:56.405226+00:00"
 }
