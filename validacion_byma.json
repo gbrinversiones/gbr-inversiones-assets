@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-12T21:14:12.671487+00:00",
- "fecha_datos_byma": "2026-11-11",
- "fecha_liquidacion": "2026-11-12",
+ "generado": "2026-11-13T14:01:37.926151+00:00",
+ "fecha_datos_byma": "2026-11-12",
+ "fecha_liquidacion": "2026-11-13",
  "tolerancias": {
   "tir_pp": 0.05,
   "dm_anios": 0.01,
@@ -10,13 +10,13 @@
   "par_pp": 0.05
  },
  "comparados": 111,
- "sin_cronograma_confirmado": 254,
+ "sin_cronograma_confirmado": 252,
  "max_diferencias": {
-  "tir_pp": 0.0491,
-  "dm_anios": 0.0064,
-  "ai": 0.0026,
-  "vt": 0.0026,
-  "par_pp": 0.0025
+  "tir_pp": 0.0482,
+  "dm_anios": 0.0065,
+  "ai": 0.0029,
+  "vt": 0.0029,
+  "par_pp": 0.0031
  },
  "instrumentos_fuera_de_tolerancia": 0,
  "detalle_fuera": [],
