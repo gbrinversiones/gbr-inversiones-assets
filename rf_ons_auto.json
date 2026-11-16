@@ -1864,8 +1864,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-04",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-13",
+   "intentos": 3,
    "emisor": "MIRGOR S.A.C.I.F.I.A.",
    "clase": "Clase VI"
   },
@@ -1874,8 +1874,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-03",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-13",
+   "intentos": 3,
    "emisor": "CAMUZZI GAS PAMPEANA S.A.",
    "clase": "Clase I"
   },
@@ -1894,8 +1894,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-27",
-   "ultimo_intento": "2026-11-03",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-13",
+   "intentos": 3,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXXI"
   },
@@ -1924,11 +1924,12 @@
     "cita_vencimiento no figura textualmente en el aviso",
     "cita_pagos no figura textualmente en el aviso",
     "cita_amortizacion no figura textualmente en el aviso",
+    "el numero de la tasa no aparece en su cita",
     "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2027-04-30', '2027-10-30', '2028-04-30'], solo BYMA: ['2027-07-30', '2028-01-30', '2028-07-30'])"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-11-05",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-13",
+   "intentos": 3,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase LIII - Serie XXXVI"
   },
@@ -1947,8 +1948,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-04",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-13",
+   "intentos": 2,
    "emisor": "OTAMERICA EBYTEM S.A.",
    "clase": "Serie VI"
   },
@@ -1978,8 +1979,8 @@
     "cita_pagos no figura textualmente en el aviso"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-04",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-13",
+   "intentos": 2,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase XLVIII - Serie XXXII"
   },
@@ -2214,5 +2215,5 @@
    "clase": "Serie XIV"
   }
  },
- "actualizado": "2026-11-13T13:49:56.405226+00:00"
+ "actualizado": "2026-11-16T13:46:39.003875+00:00"
 }
