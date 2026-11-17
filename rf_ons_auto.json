@@ -1786,6 +1786,304 @@
    "vencimiento": "2028-10-04",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/0e54a567-4ddb-4a06-843c-ac097727ef8f",
    "cargada": "2026-11-11"
+  },
+  "CACDO": {
+   "filas": [
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2025-12-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2026-06-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2026-12-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2027-06-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2027-12-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2028-06-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2028-12-04",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACDO",
+     "nombre": "CAPEX S.A. - Clase XII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2029-06-04",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa (2025-12-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2029-06-04",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/fc6a0649-5ddd-41b9-8ebc-7ad627b4f7aa",
+   "cargada": "2026-11-16"
+  },
+  "AERBO": {
+   "filas": [
+    {
+     "ticker": "AERBO",
+     "nombre": "AEROPUERTOS ARGENTINA 2000 S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2024-12-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/79be9507-45f1-4f6b-bb85-2cafb81b47b7 (2024-12-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "AERBO",
+     "nombre": "AEROPUERTOS ARGENTINA 2000 S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2025-06-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/79be9507-45f1-4f6b-bb85-2cafb81b47b7 (2024-12-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "AERBO",
+     "nombre": "AEROPUERTOS ARGENTINA 2000 S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2025-12-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/79be9507-45f1-4f6b-bb85-2cafb81b47b7 (2024-12-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "AERBO",
+     "nombre": "AEROPUERTOS ARGENTINA 2000 S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2026-06-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/79be9507-45f1-4f6b-bb85-2cafb81b47b7 (2024-12-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "AERBO",
+     "nombre": "AEROPUERTOS ARGENTINA 2000 S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 5.5,
+     "fecha_pago": "2026-12-15",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/79be9507-45f1-4f6b-bb85-2cafb81b47b7 (2024-12-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2026-12-15",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/79be9507-45f1-4f6b-bb85-2cafb81b47b7",
+   "cargada": "2026-11-16"
+  },
+  "IRCJO": {
+   "filas": [
+    {
+     "ticker": "IRCJO",
+     "nombre": "INVERSIONES Y REPRESENTACIONES S.A. - Clase XVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2024-02-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5 (2024-02-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "IRCJO",
+     "nombre": "INVERSIONES Y REPRESENTACIONES S.A. - Clase XVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2024-08-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5 (2024-02-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "IRCJO",
+     "nombre": "INVERSIONES Y REPRESENTACIONES S.A. - Clase XVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2025-02-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5 (2024-02-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "IRCJO",
+     "nombre": "INVERSIONES Y REPRESENTACIONES S.A. - Clase XVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2025-08-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5 (2024-02-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "IRCJO",
+     "nombre": "INVERSIONES Y REPRESENTACIONES S.A. - Clase XVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2026-02-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5 (2024-02-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "IRCJO",
+     "nombre": "INVERSIONES Y REPRESENTACIONES S.A. - Clase XVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2026-08-28",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5 (2024-02-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "IRCJO",
+     "nombre": "INVERSIONES Y REPRESENTACIONES S.A. - Clase XVIII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7,
+     "fecha_pago": "2027-02-28",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5 (2024-02-26); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2027-02-28",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/0df57141-8ce9-4b7b-9fac-a7fb4c5f65f5",
+   "cargada": "2026-11-16"
+  },
+  "SIC2O": {
+   "filas": [
+    {
+     "ticker": "SIC2O",
+     "nombre": "SIDERSA S.A. - Clase II - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-06-19",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43 (2026-06-17); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SIC2O",
+     "nombre": "SIDERSA S.A. - Clase II - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-12-19",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43 (2026-06-17); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SIC2O",
+     "nombre": "SIDERSA S.A. - Clase II - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-06-19",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43 (2026-06-17); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SIC2O",
+     "nombre": "SIDERSA S.A. - Clase II - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-12-19",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43 (2026-06-17); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SIC2O",
+     "nombre": "SIDERSA S.A. - Clase II - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2028-06-19",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43 (2026-06-17); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SIC2O",
+     "nombre": "SIDERSA S.A. - Clase II - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2028-12-19",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43 (2026-06-17); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SIC2O",
+     "nombre": "SIDERSA S.A. - Clase II - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2029-06-19",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43 (2026-06-17); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2029-06-19",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43",
+   "cargada": "2026-11-16"
   }
  },
  "cuarentena": {
@@ -2026,17 +2324,6 @@
    "emisor": "PROFERTIL S.A.",
    "clase": "Clase II"
   },
-  "CACDO": {
-   "motivos": [
-    "ai: repo 3.5521 vs BYMA 3.5979 (dif -0.0458)",
-    "vt: repo 103.5521 vs BYMA 103.5979 (dif -0.0458)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "CAPEX S.A.",
-   "clase": "Clase XII"
-  },
   "CS52O": {
    "motivos": [
     "cita_pagos no figura textualmente en el aviso",
@@ -2060,18 +2347,6 @@
    "intentos": 1,
    "emisor": "YPF ENERGIA ELECTRICA S.A.",
    "clase": "Clase XX"
-  },
-  "AERBO": {
-   "motivos": [
-    "tir_pp: repo 29.2281 vs BYMA 31.1918 (dif -1.9637)",
-    "ai: repo 2.0778 vs BYMA 2.1083 (dif -0.0305)",
-    "vt: repo 102.0778 vs BYMA 102.1083 (dif -0.0305)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "AEROPUERTOS ARGENTINA 2000 S.A.",
-   "clase": "Clase XI"
   },
   "SBC3O": {
    "motivos": [
@@ -2099,8 +2374,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase V"
   },
@@ -2115,25 +2390,13 @@
    "emisor": "YPF ENERGIA ELECTRICA S.A.",
    "clase": "Clase XXI"
   },
-  "IRCJO": {
-   "motivos": [
-    "tir_pp: repo 4.4888 vs BYMA 4.5732 (dif -0.0844)",
-    "ai: repo 1.3806 vs BYMA 1.4194 (dif -0.0388)",
-    "vt: repo 101.3806 vs BYMA 101.4194 (dif -0.0388)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "INVERSIONES Y REPRESENTACIONES S.A.",
-   "clase": "Clase XVIII"
-  },
   "EMC1O": {
    "motivos": [
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "COMPAÑIA MEGA S.A.",
    "clase": "Clase I"
   },
@@ -2215,5 +2478,5 @@
    "clase": "Serie XIV"
   }
  },
- "actualizado": "2026-11-17T13:50:19.986984+00:00"
+ "actualizado": "2026-11-17T19:24:07.048700+00:00"
 }
