@@ -2472,6 +2472,170 @@
    "vencimiento": "2028-10-17",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a",
    "cargada": "2026-11-16"
+  },
+  "LUC5O": {
+   "filas": [
+    {
+     "ticker": "LUC5O",
+     "nombre": "LUZ DE TRES PICOS S.A. - Clase V - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-02-26",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919 (2026-02-24); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "LUC5O",
+     "nombre": "LUZ DE TRES PICOS S.A. - Clase V - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-08-26",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919 (2026-02-24); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "LUC5O",
+     "nombre": "LUZ DE TRES PICOS S.A. - Clase V - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-02-26",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919 (2026-02-24); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "LUC5O",
+     "nombre": "LUZ DE TRES PICOS S.A. - Clase V - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-08-26",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919 (2026-02-24); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "LUC5O",
+     "nombre": "LUZ DE TRES PICOS S.A. - Clase V - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2028-02-26",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919 (2026-02-24); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "LUC5O",
+     "nombre": "LUZ DE TRES PICOS S.A. - Clase V - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2028-08-26",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919 (2026-02-24); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "LUC5O",
+     "nombre": "LUZ DE TRES PICOS S.A. - Clase V - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2029-02-26",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919 (2026-02-24); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2029-02-26",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/26aa3b0b-581c-41f1-80e8-67fbe2fd5919",
+   "cargada": "2026-11-16"
+  },
+  "SBC1O": {
+   "filas": [
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2025-10-07",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2026-03-05",
+     "pct_amortizacion": 14.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2026-06-05",
+     "pct_amortizacion": 14.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2026-09-05",
+     "pct_amortizacion": 14.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2026-12-05",
+     "pct_amortizacion": 14.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2027-03-05",
+     "pct_amortizacion": 14.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2027-06-05",
+     "pct_amortizacion": 14.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "SBC1O",
+     "nombre": "SCANIA CREDIT ARGENTINA S.A.U. - Clase I - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.75,
+     "fecha_pago": "2027-09-05",
+     "pct_amortizacion": 16.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5 (2025-10-02); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2027-09-05",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5",
+   "cargada": "2026-11-16"
   }
  },
  "cuarentena": {
@@ -2731,8 +2895,8 @@
     "cita_amortizacion no figura textualmente en el aviso"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "YPF ENERGIA ELECTRICA S.A.",
    "clase": "Clase XX"
   },
@@ -2771,8 +2935,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "BANCO DE VALORES S.A.",
    "clase": "Serie I"
   },
@@ -2781,8 +2945,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "YPF ENERGIA ELECTRICA S.A.",
    "clase": "Clase XXIV"
   },
@@ -2795,17 +2959,6 @@
    "intentos": 1,
    "emisor": "YPF S.A.",
    "clase": "Clase LIII"
-  },
-  "LUC5O": {
-   "motivos": [
-    "ai: repo 1.6222 vs BYMA 1.6667 (dif -0.0445)",
-    "vt: repo 101.6222 vs BYMA 101.6667 (dif -0.0445)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "LUZ DE TRES PICOS S.A.",
-   "clase": "Clase V"
   },
   "LMS7O": {
    "motivos": [
@@ -2831,7 +2984,17 @@
    "intentos": 1,
    "emisor": "MSU S.A.",
    "clase": "Serie XIV"
+  },
+  "XMC1O": {
+   "motivos": [
+    "cita_pagos no figura textualmente en el aviso"
+   ],
+   "desde": "2026-11-16",
+   "ultimo_intento": "2026-11-16",
+   "intentos": 1,
+   "emisor": "MINERA EXAR S.A.",
+   "clase": "Clase I"
   }
  },
- "actualizado": "2026-11-17T19:34:23.359757+00:00"
+ "actualizado": "2026-11-17T20:18:10.582393+00:00"
 }
