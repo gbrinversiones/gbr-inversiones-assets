@@ -1938,8 +1938,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-30",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 3,
    "emisor": "EDESA S.A.",
    "clase": "Clase II"
   },
@@ -1969,8 +1969,8 @@
     "cita_pagos no figura textualmente en el aviso"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-04",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "VISTA ENERGY ARGENTINA S.A.U.",
    "clase": "Clase XXXII"
   },
@@ -1986,12 +1986,13 @@
   },
   "SBC2O": {
    "motivos": [
+    "cita_tasa no figura textualmente en el aviso",
     "cita_vencimiento no figura textualmente en el aviso",
     "tasa del aviso 7.49 distinta de la de BYMA 74.9"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-04",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "SCANIA CREDIT ARGENTINA S.A.U.",
    "clase": "Clase II"
   },
@@ -2000,8 +2001,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-04",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "COMPAÑIA GENERAL DE COMBUSTIBLES S.A.",
    "clase": "Clase XXXVI"
   },
@@ -2044,8 +2045,8 @@
     "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2027-04-30', '2027-10-30'], solo BYMA: ['2027-07-30', '2028-01-30'])"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase LII - Serie XXXVI"
   },
@@ -2074,12 +2075,11 @@
   },
   "SBC3O": {
    "motivos": [
-    "ai: repo 2.9431 vs BYMA 2.9792 (dif -0.0361)",
-    "vt: repo 102.9431 vs BYMA 102.9792 (dif -0.0361)"
+    "cita_vencimiento no figura textualmente en el aviso"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "SCANIA CREDIT ARGENTINA S.A.U.",
    "clase": "Clase III"
   },
@@ -2215,5 +2215,5 @@
    "clase": "Serie XIV"
   }
  },
- "actualizado": "2026-11-16T13:46:39.003875+00:00"
+ "actualizado": "2026-11-17T13:50:19.986984+00:00"
 }
