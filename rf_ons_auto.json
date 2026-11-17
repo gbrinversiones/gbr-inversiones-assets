@@ -2084,6 +2084,394 @@
    "vencimiento": "2029-06-19",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/84b275b9-9169-449d-b46b-db53ca4adf43",
    "cargada": "2026-11-16"
+  },
+  "PN34O": {
+   "filas": [
+    {
+     "ticker": "PN34O",
+     "nombre": "PAN AMERICAN ENERGY S.A. - Clase XXXIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 4.97,
+     "fecha_pago": "2024-09-27",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd (2024-09-25); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "PN34O",
+     "nombre": "PAN AMERICAN ENERGY S.A. - Clase XXXIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 4.97,
+     "fecha_pago": "2025-03-27",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd (2024-09-25); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "PN34O",
+     "nombre": "PAN AMERICAN ENERGY S.A. - Clase XXXIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 4.97,
+     "fecha_pago": "2025-09-27",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd (2024-09-25); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "PN34O",
+     "nombre": "PAN AMERICAN ENERGY S.A. - Clase XXXIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 4.97,
+     "fecha_pago": "2026-03-27",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd (2024-09-25); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "PN34O",
+     "nombre": "PAN AMERICAN ENERGY S.A. - Clase XXXIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 4.97,
+     "fecha_pago": "2026-09-27",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd (2024-09-25); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "PN34O",
+     "nombre": "PAN AMERICAN ENERGY S.A. - Clase XXXIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 4.97,
+     "fecha_pago": "2027-03-27",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd (2024-09-25); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "PN34O",
+     "nombre": "PAN AMERICAN ENERGY S.A. - Clase XXXIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 4.97,
+     "fecha_pago": "2027-09-27",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd (2024-09-25); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2027-09-27",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/a5840dfe-ae1b-40d4-a822-57cf836166bd",
+   "cargada": "2026-11-16"
+  },
+  "CACBO": {
+   "filas": [
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2025-06-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2025-09-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2025-12-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-03-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-06-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-09-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2026-12-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-03-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-06-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-09-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2027-12-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2028-03-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "CACBO",
+     "nombre": "CAPEX S.A. - Clase XI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.75,
+     "fecha_pago": "2028-06-17",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db (2025-06-12); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2028-06-17",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/3c58072a-3ccb-48d8-ae62-566b6de277db",
+   "cargada": "2026-11-16"
+  },
+  "YFCMO": {
+   "filas": [
+    {
+     "ticker": "YFCMO",
+     "nombre": "YPF ENERGIA ELECTRICA S.A. - Clase XXI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.5,
+     "fecha_pago": "2025-05-20",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7 (2025-05-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "YFCMO",
+     "nombre": "YPF ENERGIA ELECTRICA S.A. - Clase XXI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.5,
+     "fecha_pago": "2026-02-20",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7 (2025-05-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "YFCMO",
+     "nombre": "YPF ENERGIA ELECTRICA S.A. - Clase XXI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.5,
+     "fecha_pago": "2026-05-20",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7 (2025-05-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "YFCMO",
+     "nombre": "YPF ENERGIA ELECTRICA S.A. - Clase XXI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.5,
+     "fecha_pago": "2026-08-20",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7 (2025-05-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "YFCMO",
+     "nombre": "YPF ENERGIA ELECTRICA S.A. - Clase XXI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.5,
+     "fecha_pago": "2026-11-20",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7 (2025-05-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "YFCMO",
+     "nombre": "YPF ENERGIA ELECTRICA S.A. - Clase XXI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.5,
+     "fecha_pago": "2027-02-20",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7 (2025-05-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "YFCMO",
+     "nombre": "YPF ENERGIA ELECTRICA S.A. - Clase XXI - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.5,
+     "fecha_pago": "2027-05-20",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7 (2025-05-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2027-05-20",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/6805111d-f25a-4729-95a8-770e3d72f3c7",
+   "cargada": "2026-11-16"
+  },
+  "GN47O": {
+   "filas": [
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2024-10-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2025-04-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2025-10-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2026-04-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2026-10-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2027-04-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2027-10-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2028-04-17",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    },
+    {
+     "ticker": "GN47O",
+     "nombre": "GENNEIA S.A. - Clase XLVII - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.0,
+     "fecha_pago": "2028-10-17",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a (2024-10-15); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-16]"
+    }
+   ],
+   "vencimiento": "2028-10-17",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/e14005de-0043-41ae-8611-cdfbf4716a0a",
+   "cargada": "2026-11-16"
   }
  },
  "cuarentena": {
@@ -2309,8 +2697,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-05",
-   "ultimo_intento": "2026-11-05",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "EDEMSA S.A.",
    "clase": "Clase VIII"
   },
@@ -2319,8 +2707,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-05",
-   "ultimo_intento": "2026-11-05",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-16",
+   "intentos": 2,
    "emisor": "PROFERTIL S.A.",
    "clase": "Clase II"
   },
@@ -2358,17 +2746,6 @@
    "emisor": "SCANIA CREDIT ARGENTINA S.A.U.",
    "clase": "Clase III"
   },
-  "PN34O": {
-   "motivos": [
-    "ai: repo 0.5798 vs BYMA 0.6074 (dif -0.0276)",
-    "vt: repo 100.5798 vs BYMA 100.6074 (dif -0.0276)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "PAN AMERICAN ENERGY S.A.",
-   "clase": "Clase XXXIV"
-  },
   "RC5CO": {
    "motivos": [
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
@@ -2378,17 +2755,6 @@
    "intentos": 2,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase V"
-  },
-  "YFCMO": {
-   "motivos": [
-    "ai: repo 1.4264 vs BYMA 1.4625 (dif -0.0361)",
-    "vt: repo 101.4264 vs BYMA 101.4625 (dif -0.0361)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "YPF ENERGIA ELECTRICA S.A.",
-   "clase": "Clase XXI"
   },
   "EMC1O": {
    "motivos": [
@@ -2419,17 +2785,6 @@
    "intentos": 1,
    "emisor": "YPF ENERGIA ELECTRICA S.A.",
    "clase": "Clase XXIV"
-  },
-  "CACBO": {
-   "motivos": [
-    "ai: repo 1.1194 vs BYMA 1.1625 (dif -0.0431)",
-    "vt: repo 101.1194 vs BYMA 101.1625 (dif -0.0431)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "CAPEX S.A.",
-   "clase": "Clase XI"
   },
   "YCAMO": {
    "motivos": [
@@ -2478,5 +2833,5 @@
    "clase": "Serie XIV"
   }
  },
- "actualizado": "2026-11-17T19:24:07.048700+00:00"
+ "actualizado": "2026-11-17T19:34:23.359757+00:00"
 }
