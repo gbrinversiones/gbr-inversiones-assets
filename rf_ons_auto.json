@@ -2636,6 +2636,140 @@
    "vencimiento": "2027-09-05",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/17d82685-ed6d-4683-836a-e890bb4671f5",
    "cargada": "2026-11-16"
+  },
+  "CIC9O": {
+   "filas": [
+    {
+     "ticker": "CIC9O",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase IX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2025-05-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a52b2af3-896f-4a90-bfdc-9d704838e933 (2025-05-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "CIC9O",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase IX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2025-11-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a52b2af3-896f-4a90-bfdc-9d704838e933 (2025-05-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "CIC9O",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase IX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2026-05-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a52b2af3-896f-4a90-bfdc-9d704838e933 (2025-05-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "CIC9O",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase IX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2026-11-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a52b2af3-896f-4a90-bfdc-9d704838e933 (2025-05-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "CIC9O",
+     "nombre": "CNH INDUSTRIAL CAPITAL ARGENTINA S.A. - Clase IX - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.25,
+     "fecha_pago": "2027-05-21",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/a52b2af3-896f-4a90-bfdc-9d704838e933 (2025-05-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    }
+   ],
+   "vencimiento": "2027-05-21",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/a52b2af3-896f-4a90-bfdc-9d704838e933",
+   "cargada": "2026-11-17"
+  },
+  "MSSFO": {
+   "filas": [
+    {
+     "ticker": "MSSFO",
+     "nombre": "MSU S.A. - Serie XIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2024-07-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497 (2024-07-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "MSSFO",
+     "nombre": "MSU S.A. - Serie XIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-01-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497 (2024-07-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "MSSFO",
+     "nombre": "MSU S.A. - Serie XIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-07-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497 (2024-07-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "MSSFO",
+     "nombre": "MSU S.A. - Serie XIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-01-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497 (2024-07-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "MSSFO",
+     "nombre": "MSU S.A. - Serie XIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-07-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497 (2024-07-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "MSSFO",
+     "nombre": "MSU S.A. - Serie XIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-01-23",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497 (2024-07-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "MSSFO",
+     "nombre": "MSU S.A. - Serie XIV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-07-23",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497 (2024-07-19); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    }
+   ],
+   "vencimiento": "2027-07-23",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497",
+   "cargada": "2026-11-17"
   }
  },
  "cuarentena": {
@@ -2962,28 +3096,13 @@
   },
   "LMS7O": {
    "motivos": [
-    "cita_pagos no figura textualmente en el aviso",
-    "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: [], solo BYMA: ['2028-07-12'])",
-    "las amortizaciones futuras del aviso no coinciden con las de BYMA",
-    "saldo residual de BYMA 66.68 distinto del que surge del aviso 100.0"
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-17",
+   "intentos": 2,
    "emisor": "ALUMINIO ARGENTINO S.A.I.C",
    "clase": "Serie VII"
-  },
-  "MSSFO": {
-   "motivos": [
-    "tir_pp: repo 6.2913 vs BYMA 6.3437 (dif -0.0524)",
-    "ai: repo 2.2083 vs BYMA 2.25 (dif -0.0417)",
-    "vt: repo 102.2083 vs BYMA 102.25 (dif -0.0417)"
-   ],
-   "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-06",
-   "intentos": 1,
-   "emisor": "MSU S.A.",
-   "clase": "Serie XIV"
   },
   "XMC1O": {
    "motivos": [
@@ -2994,7 +3113,38 @@
    "intentos": 1,
    "emisor": "MINERA EXAR S.A.",
    "clase": "Clase I"
+  },
+  "OT41O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-17",
+   "ultimo_intento": "2026-11-17",
+   "intentos": 1,
+   "emisor": "OILTANKING EBYTEM S.A.",
+   "clase": "Serie IV - Clase I"
+  },
+  "FO4AO": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-17",
+   "ultimo_intento": "2026-11-17",
+   "intentos": 1,
+   "emisor": "FUTUROS Y OPCIONES.COM S.A.",
+   "clase": "Clase A - Serie IV"
+  },
+  "LDCGO": {
+   "motivos": [
+    "cita_tasa no figura textualmente en el aviso",
+    "cita_pagos no figura textualmente en el aviso"
+   ],
+   "desde": "2026-11-17",
+   "ultimo_intento": "2026-11-17",
+   "intentos": 1,
+   "emisor": "LEDESMA S.A.A.I.",
+   "clase": "Clase XV"
   }
  },
- "actualizado": "2026-11-17T20:18:10.582393+00:00"
+ "actualizado": "2026-11-18T13:50:25.417484+00:00"
 }
