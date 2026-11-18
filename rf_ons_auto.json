@@ -2770,6 +2770,307 @@
    "vencimiento": "2027-07-23",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/041e958a-f19d-4d1b-b721-a33402a9c497",
    "cargada": "2026-11-17"
+  },
+  "PQCTO": {
+   "filas": [
+    {
+     "ticker": "PQCTO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase T - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.5,
+     "fecha_pago": "2025-07-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08 (2025-07-16); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCTO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase T - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.5,
+     "fecha_pago": "2026-01-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08 (2025-07-16); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCTO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase T - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.5,
+     "fecha_pago": "2026-07-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08 (2025-07-16); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCTO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase T - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.5,
+     "fecha_pago": "2027-01-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08 (2025-07-16); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCTO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase T - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.5,
+     "fecha_pago": "2027-07-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08 (2025-07-16); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCTO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase T - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.5,
+     "fecha_pago": "2028-01-21",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08 (2025-07-16); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCTO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase T - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.5,
+     "fecha_pago": "2028-07-21",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08 (2025-07-16); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    }
+   ],
+   "vencimiento": "2028-07-21",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/432cb743-46a0-42c8-bb56-86389e5e1b08",
+   "cargada": "2026-11-17"
+  },
+  "PQCRO": {
+   "filas": [
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2024-10-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2025-04-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2025-10-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2026-04-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2026-10-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2027-04-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2027-10-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2028-04-22",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "PQCRO",
+     "nombre": "PETROQUIMICA COMODORO RIVADAVIA S.A. - Clase R - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 6.75,
+     "fecha_pago": "2028-10-22",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737 (2024-10-18); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    }
+   ],
+   "vencimiento": "2028-10-22",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/f25fc96d-99b2-475f-a19d-bdb099c32737",
+   "cargada": "2026-11-17"
+  },
+  "GYC4O": {
+   "filas": [
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2024-10-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2025-04-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2025-07-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2025-10-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-01-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-04-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-07-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2026-10-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-01-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-04-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-07-30",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    },
+    {
+     "ticker": "GYC4O",
+     "nombre": "360 ENERGY SOLAR S.A. - Clase IV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 8.0,
+     "fecha_pago": "2027-10-30",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729 (2024-10-28); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-17]"
+    }
+   ],
+   "vencimiento": "2027-10-30",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/47a886cb-7110-4130-a428-075d4f9cd729",
+   "cargada": "2026-11-17"
   }
  },
  "cuarentena": {
@@ -3144,7 +3445,38 @@
    "intentos": 1,
    "emisor": "LEDESMA S.A.A.I.",
    "clase": "Clase XV"
+  },
+  "TLCWO": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-17",
+   "ultimo_intento": "2026-11-17",
+   "intentos": 1,
+   "emisor": "TELECOM ARGENTINA S.A.",
+   "clase": "Clase XXX"
+  },
+  "CS51O": {
+   "motivos": [
+    "cita_pagos no figura textualmente en el aviso"
+   ],
+   "desde": "2026-11-17",
+   "ultimo_intento": "2026-11-17",
+   "intentos": 1,
+   "emisor": "CRESUD S.A.C.I.F.A.",
+   "clase": "Clase LI - Serie XXXV"
+  },
+  "BY34O": {
+   "motivos": [
+    "el numero de la tasa no aparece en su cita",
+    "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2027-03-01', '2027-08-31', '2028-03-01'], solo BYMA: ['2027-02-28', '2027-08-28', '2028-02-28'])"
+   ],
+   "desde": "2026-11-17",
+   "ultimo_intento": "2026-11-17",
+   "intentos": 1,
+   "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
+   "clase": "Clase XXXIV"
   }
  },
- "actualizado": "2026-11-18T13:50:25.417484+00:00"
+ "actualizado": "2026-11-18T15:29:08.919576+00:00"
 }
