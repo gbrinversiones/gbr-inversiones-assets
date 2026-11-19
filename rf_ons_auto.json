@@ -3079,8 +3079,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-11",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-18",
+   "intentos": 4,
    "emisor": "VACA MUERTA OIL SUR S.A.",
    "clase": "Clase I"
   },
@@ -3089,8 +3089,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-11",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-18",
+   "intentos": 4,
    "emisor": "EDENOR S.A.",
    "clase": "Clase III"
   },
@@ -3099,8 +3099,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-11",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-18",
+   "intentos": 4,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXX"
   },
@@ -3116,11 +3116,11 @@
   },
   "VSCPO": {
    "motivos": [
-    "cita_tasa no figura textualmente en el aviso"
+    "las amortizaciones futuras del aviso no coinciden con las de BYMA"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-11",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-18",
+   "intentos": 4,
    "emisor": "VISTA ENERGY ARGENTINA S.A.U.",
    "clase": "Clase XXIV"
   },
@@ -3129,8 +3129,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-11",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-18",
+   "intentos": 4,
    "emisor": "EDEMSA S.A.",
    "clase": "Clase III"
   },
@@ -3476,7 +3476,17 @@
    "intentos": 1,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXXIV"
+  },
+  "MGCEO": {
+   "motivos": [
+    "tasa no fija (aviso: fija, BYMA: Cupon Cero): el motor no la proyecta"
+   ],
+   "desde": "2026-11-18",
+   "ultimo_intento": "2026-11-18",
+   "intentos": 1,
+   "emisor": "PAMPA ENERGIA S.A.",
+   "clase": "Clase XXIII"
   }
  },
- "actualizado": "2026-11-18T15:29:08.919576+00:00"
+ "actualizado": "2026-11-19T13:51:01.243617+00:00"
 }
