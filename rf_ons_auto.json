@@ -4011,7 +4011,17 @@
    "intentos": 1,
    "emisor": "YPF ENERGIA ELECTRICA S.A.",
    "clase": "Clase XVII"
+  },
+  "DEC4O": {
+   "motivos": [
+    "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
+   ],
+   "desde": "2026-11-18",
+   "ultimo_intento": "2026-11-18",
+   "intentos": 1,
+   "emisor": "EDESA S.A.",
+   "clase": "Clase IV"
   }
  },
- "actualizado": "2026-11-19T17:19:41.794686+00:00"
+ "actualizado": "2026-11-19T18:15:52.044638+00:00"
 }
