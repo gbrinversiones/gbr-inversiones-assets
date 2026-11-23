@@ -1,0 +1,305 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-22",
+ "estado": "aprobada por Gaspar el 22/11/2026 (con MSU, AA2000, Edenor, Central Puerto y John Deere sumadas)",
+ "criterio": "ON de emisores de primera linea (empresas grandes, calificacion local AAA/AA+, ON en dolares con volumen relevante en BYMA, sin default por falta de fondos desde 2016 (los canjes de 2020-2021 forzados por el cepo del BCRA, como YPF, IRSA y Cresud, no excluyen)) mas ON liquidas de mayor riesgo que Gaspar elige sumar (riesgo = 'mayor_riesgo'). Excepcion explicita: YPF. El sitio, el chatbot y las curvas publican solo estas ON.",
+ "emisores": [
+  {
+   "clave_grupo": "ypf",
+   "nombre": "YPF",
+   "claves": [
+    "ypf"
+   ],
+   "cuits": [
+    "30546689979"
+   ],
+   "motivo": "Mayor empresa del país, AAA, la ON más líquida del mercado.",
+   "historial_default": "Canje de deuda internacional en 2021 por la restricción cambiaria del BCRA (Com. A 7106); S&P lo calificó como default selectivo (11/01/2021). Pagó todo después. Se incluye como excepción por pedido de Gaspar.",
+   "excepcion": true,
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "vista energy argentina",
+   "nombre": "Vista Energy",
+   "claves": [
+    "vista energy argentina",
+    "vista energy",
+    "vista"
+   ],
+   "cuits": [
+    "33515950899"
+   ],
+   "motivo": "Segundo productor de Vaca Muerta, AAA, muy líquida.",
+   "historial_default": "Sin defaults (empresa fundada en 2017).",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "tecpetrol",
+   "nombre": "Tecpetrol (grupo Techint)",
+   "claves": [
+    "tecpetrol",
+    "tecpretol"
+   ],
+   "cuits": [
+    "30592665472"
+   ],
+   "motivo": "Grupo Techint, AAA, muy líquida.",
+   "historial_default": "Sin defaults conocidos.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "pampa energia",
+   "nombre": "Pampa Energía",
+   "claves": [
+    "pampa energia"
+   ],
+   "cuits": [
+    "30526552659"
+   ],
+   "motivo": "Mayor integrada eléctrica independiente, AAA, muy líquida.",
+   "historial_default": "No encontramos defaults ni canjes forzosos de Pampa desde 2016. En 2002 su antecesora (Pérez Companc) refinanció deuda de corto plazo; los incumplimientos de 2002-2003 fueron de sus afiliadas (CIESA, TGS, Transener), no propios (20-F 2002, SEC).",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "pan american energy",
+   "nombre": "Pan American Energy",
+   "claves": [
+    "pan american energy",
+    "pan american energy sl",
+    "pan american energy sl sucursal argentina"
+   ],
+   "cuits": [],
+   "motivo": "Mayor petrolera privada del país, AAA, líquida.",
+   "historial_default": "Sin defaults conocidos.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "pluspetrol",
+   "nombre": "Pluspetrol",
+   "claves": [
+    "pluspetrol"
+   ],
+   "cuits": [
+    "30678224010"
+   ],
+   "motivo": "Productor top de Vaca Muerta, AAA, muy líquida.",
+   "historial_default": "Emisor local nuevo (2025), sin defaults.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "telecom argentina",
+   "nombre": "Telecom Argentina",
+   "claves": [
+    "telecom argentina"
+   ],
+   "cuits": [
+    "30639453738"
+   ],
+   "motivo": "Mayor telco del país, AA+, muy líquida.",
+   "historial_default": "Default en 2002 (crisis 2001), reestructurado en 2004-2005. Sin incumplimientos desde entonces.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "transportadora de gas del sur",
+   "nombre": "Transportadora de Gas del Sur (TGS)",
+   "claves": [
+    "transportadora de gas del sur",
+    "tgs"
+   ],
+   "cuits": [],
+   "motivo": "Principal transportista de gas, AAA, muy líquida.",
+   "historial_default": "En febrero de 2003, tras la devaluación, anunció que no podía pagar USD 492 M que vencían ese año, difirió intereses y reestructuró su deuda (comunicados a la SEC, 2003). Sin incumplimientos desde entonces.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "ypf energia electrica",
+   "nombre": "YPF Luz (YPF Energía Eléctrica)",
+   "claves": [
+    "ypf energia electrica",
+    "ypf luz"
+   ],
+   "cuits": [],
+   "motivo": "Grupo YPF, AAA. Poco líquida: entra por calidad.",
+   "historial_default": "Sin defaults.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "vaca muerta oil sur",
+   "nombre": "Vaca Muerta Oil Sur (VMOS)",
+   "claves": [
+    "vaca muerta oil sur"
+   ],
+   "cuits": [],
+   "motivo": "Oleoducto de YPF, Vista, PAE, Pampa y otras; muy líquida.",
+   "historial_default": "Emisor nuevo, sin defaults.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "banco de galicia y buenos aires",
+   "nombre": "Banco Galicia",
+   "claves": [
+    "banco de galicia y buenos aires",
+    "banco galicia"
+   ],
+   "cuits": [],
+   "motivo": "Mayor banco privado del país, AAA.",
+   "historial_default": "Reestructuró deuda en 2002-2004. Sin incumplimientos desde entonces.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "banco macro",
+   "nombre": "Banco Macro",
+   "claves": [
+    "banco macro"
+   ],
+   "cuits": [],
+   "motivo": "Banco top, AAA, líquida.",
+   "historial_default": "Sin defaults conocidos.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "banco bbva argentina",
+   "nombre": "Banco BBVA Argentina",
+   "claves": [
+    "banco bbva argentina"
+   ],
+   "cuits": [],
+   "motivo": "Banco top (grupo BBVA), AAA. Ilíquida: entra por calidad.",
+   "historial_default": "Sin defaults conocidos.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "loma negra",
+   "nombre": "Loma Negra",
+   "claves": [
+    "loma negra compania industrial argentina",
+    "loma negra ciasa",
+    "loma negra"
+   ],
+   "cuits": [],
+   "motivo": "Mayor cementera del país, AAA, líquida.",
+   "historial_default": "Sin defaults conocidos.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "arcor",
+   "nombre": "Arcor",
+   "claves": [
+    "arcor"
+   ],
+   "cuits": [],
+   "motivo": "Mayor alimenticia del país, AA+, líquida.",
+   "historial_default": "Sin defaults conocidos.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "irsa",
+   "nombre": "IRSA",
+   "claves": [
+    "irsa inversiones y representaciones",
+    "inversiones y representaciones",
+    "irsa irsa",
+    "irsa"
+   ],
+   "cuits": [
+    "30525322749"
+   ],
+   "motivo": "Mayor inmobiliaria del país, AAA, líquida.",
+   "historial_default": "En 2020 canjeó unos USD 181 M de ON que vencían ese año (98% de aceptación) porque el cepo del BCRA (Com. A 7106) le impedía comprar los dólares, para evitar el default; tenía los fondos (El Cronista y El Economista, oct-nov 2020). Mismo caso que YPF 2021.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "cresud",
+   "nombre": "Cresud",
+   "claves": [
+    "cresud",
+    "cresud saifa"
+   ],
+   "cuits": [],
+   "motivo": "Controlante de IRSA, AAA, líquida.",
+   "historial_default": "En 2020 canjeó ON por el cepo del BCRA (Com. A 7106), con 88% de aceptación (El Economista, nov 2020). No fue por falta de fondos.",
+   "riesgo": "primera_linea"
+  },
+  {
+   "clave_grupo": "msu energy",
+   "nombre": "MSU Energy",
+   "claves": [
+    "msu energy"
+   ],
+   "cuits": [],
+   "riesgo": "mayor_riesgo",
+   "motivo": "Generadora térmica, ON líquidas (volumen diario ~USD 0,6 M). Entra por liquidez a pedido de Gaspar, marcada como de mayor riesgo.",
+   "historial_default": "Canje de sus ON 2025 en 2024 (refinanciación con nuevas ON garantizadas)."
+  },
+  {
+   "clave_grupo": "aeropuertos argentina 2000",
+   "nombre": "Aeropuertos Argentina 2000",
+   "claves": [
+    "aeropuertos argentina 2000",
+    "aa2000"
+   ],
+   "cuits": [
+    "30696170580"
+   ],
+   "riesgo": "mayor_riesgo",
+   "motivo": "Concesionaria de los aeropuertos, AA+, ON líquidas. Entra por liquidez a pedido de Gaspar, marcada como de mayor riesgo.",
+   "historial_default": "Canjes voluntarios de sus ON 2027 en 2020 y en 2021 (a 2031, 67% de aceptación) para reordenar la deuda tras la pandemia; no hubo falta de pago (Ámbito y LexLatin, 2021)."
+  },
+  {
+   "clave_grupo": "edenor",
+   "nombre": "Edenor",
+   "claves": [
+    "edenor",
+    "empresa distribuidora y comercializadora norte"
+   ],
+   "cuits": [],
+   "riesgo": "mayor_riesgo",
+   "motivo": "Mayor distribuidora eléctrica del país, ON muy líquidas (~USD 1,3 M diarios). Entra por liquidez a pedido de Gaspar, marcada como de mayor riesgo.",
+   "historial_default": "En 2022 canjeó sus ON 9,75% 2022 a 2025 en dos etapas (73-77% de aceptación), por falta de liquidez y las reglas del BCRA; fue un canje voluntario y Moody's no lo trató como default (PR Newswire mayo 2022, iProfesional oct 2022). En 2002-2003 también reestructuró deuda."
+  },
+  {
+   "clave_grupo": "central puerto",
+   "nombre": "Central Puerto",
+   "claves": [
+    "central puerto"
+   ],
+   "cuits": [],
+   "riesgo": "primera_linea",
+   "motivo": "Mayor generadora privada del país, AA, ON líquidas.",
+   "historial_default": "Sin defaults conocidos desde 2016."
+  },
+  {
+   "clave_grupo": "john deere credit compania financiera",
+   "nombre": "John Deere Credit",
+   "claves": [
+    "john deere credit compania financiera",
+    "john deere credit"
+   ],
+   "cuits": [],
+   "riesgo": "primera_linea",
+   "motivo": "Financiera del grupo Deere, ON líquidas (~USD 0,7 M diarios).",
+   "historial_default": "Sin defaults conocidos."
+  }
+ ],
+ "excluidos": [
+  {
+   "clave_grupo": "compania general de combustibles",
+   "nombre": "Compañía General de Combustibles (CGC)",
+   "motivo": "Liquidez moderada (~USD 0,3 M diarios, 2 de sus 4 ON líquidas); Gaspar no la sumó."
+  },
+  {
+   "clave_grupo": "genneia",
+   "nombre": "Genneia",
+   "motivo": "Poco líquida: solo 1 de sus 7 ON tiene volumen."
+  },
+  {
+   "clave_grupo": "*",
+   "nombre": "Resto de los emisores",
+   "motivo": "Tamaño o liquidez insuficientes (Capex, PCR, Pecom, CNH, Scania, Oiltanking, Oldelval, Mastellone, Mirgor, Ledesma, Havanna, 360 Energy y otros)."
+  }
+ ],
+ "riesgos": {
+  "primera_linea": "Emisor de primera línea",
+  "mayor_riesgo": "Líquida, de mayor riesgo"
+ }
+}
