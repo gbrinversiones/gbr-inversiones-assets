@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-24T13:56:13.157873+00:00",
- "fecha_datos_byma": "2026-11-20",
- "fecha_liquidacion": "2026-11-24",
+ "generado": "2026-11-24T23:20:03.088615+00:00",
+ "fecha_datos_byma": "2026-11-24",
+ "fecha_liquidacion": "2026-11-25",
  "tolerancias": {
   "tir_pp": 0.05,
   "dm_anios": 0.01,
@@ -10,22 +10,22 @@
   "par_pp": 0.05
  },
  "comparados": 110,
- "sin_cronograma_confirmado": 247,
+ "sin_cronograma_confirmado": 248,
  "max_diferencias": {
-  "tir_pp": 0.0623,
-  "dm_anios": 0.0065,
-  "ai": 0.0061,
-  "vt": 0.0061,
-  "par_pp": 0.0058
+  "tir_pp": 0.0622,
+  "dm_anios": 0.0064,
+  "ai": 0.0064,
+  "vt": 0.0064,
+  "par_pp": 0.0062
  },
  "instrumentos_fuera_de_tolerancia": 1,
  "detalle_fuera": [
   {
    "ticker": "T641O",
    "campo": "tir_pp",
-   "repo": 25.3314,
-   "byma": 25.3937,
-   "dif": -0.0623
+   "repo": 24.3786,
+   "byma": 24.4408,
+   "dif": -0.0622
   }
  ],
  "estado": "ok",
