@@ -3586,6 +3586,103 @@
    "vencimiento": "2028-03-05",
    "documento": "https://aif2.cnv.gov.ar/presentations/publicview/28c7e1ca-aa52-4b23-9001-a836eb0178a8",
    "cargada": "2026-11-18"
+  },
+  "TLCQO": {
+   "filas": [
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-07-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "Fecha de emision (sin pago): ancla para el calculo del interes corrido -- AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2025-10-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-01-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-04-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-07-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2026-10-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-01-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-04-02",
+     "pct_amortizacion": 0.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    },
+    {
+     "ticker": "TLCQO",
+     "nombre": "TELECOM ARGENTINA S.A. - Clase XXV - Dólares",
+     "ley": "N/D (ON corporativa)",
+     "moneda": "USD",
+     "tasa_interes_anual_%": 7.5,
+     "fecha_pago": "2027-07-02",
+     "pct_amortizacion": 100.0,
+     "fuente": "AUTOMATICO (alta_ons) - Aviso de Resultados CNV https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1 (2025-06-30); citas textuales verificadas; cronograma, TIR, duration y paridad cruzados contra BYMA [cargada 2026-11-20]"
+    }
+   ],
+   "vencimiento": "2027-07-02",
+   "documento": "https://aif2.cnv.gov.ar/presentations/publicview/44630955-a18d-4b8f-ae46-cbe4c2dba1c1",
+   "cargada": "2026-11-20"
   }
  },
  "cuarentena": {
@@ -3624,8 +3721,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-12",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-20",
+   "intentos": 4,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase I"
   },
@@ -3654,8 +3751,8 @@
     "cita_amortizacion no figura textualmente en el aviso"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-12",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-20",
+   "intentos": 4,
    "emisor": "PAMPA ENERGIA S.A.",
    "clase": "Clase XXVIII"
   },
@@ -3684,8 +3781,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-27",
-   "ultimo_intento": "2026-11-12",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-20",
+   "intentos": 4,
    "emisor": "OLEODUCTOS DEL VALLE S.A.",
    "clase": "Clase VI"
   },
@@ -3704,8 +3801,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-11-12",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-20",
+   "intentos": 4,
    "emisor": "CRESUD S.A.C.I.F.A.",
    "clase": "Clase L - Serie XXXIV"
   },
@@ -3714,8 +3811,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-29",
-   "ultimo_intento": "2026-11-12",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-20",
+   "intentos": 4,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase XXVI"
   },
@@ -3752,17 +3849,6 @@
    "intentos": 2,
    "emisor": "OTAMERICA EBYTEM S.A.",
    "clase": "Serie VI"
-  },
-  "TLCQO": {
-   "motivos": [
-    "cita_pagos no figura textualmente en el aviso",
-    "cita_amortizacion no figura textualmente en el aviso"
-   ],
-   "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-12",
-   "intentos": 2,
-   "emisor": "TELECOM ARGENTINA S.A.",
-   "clase": "Clase XXV"
   },
   "VSCYO": {
    "motivos": [
@@ -4023,5 +4109,5 @@
    "clase": "Clase IV"
   }
  },
- "actualizado": "2026-11-19T18:15:52.044638+00:00"
+ "actualizado": "2026-11-24T13:50:13.125368+00:00"
 }
