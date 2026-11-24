@@ -68,7 +68,9 @@
     "pan american energy sl",
     "pan american energy sl sucursal argentina"
    ],
-   "cuits": [],
+   "cuits": [
+    "30695542476"
+   ],
    "motivo": "Mayor petrolera privada del país, AAA, líquida.",
    "historial_default": "Sin defaults conocidos.",
    "riesgo": "primera_linea"
@@ -106,7 +108,9 @@
     "transportadora de gas del sur",
     "tgs"
    ],
-   "cuits": [],
+   "cuits": [
+    "30657862068"
+   ],
    "motivo": "Principal transportista de gas, AAA, muy líquida.",
    "historial_default": "En febrero de 2003, tras la devaluación, anunció que no podía pagar USD 492 M que vencían ese año, difirió intereses y reestructuró su deuda (comunicados a la SEC, 2003). Sin incumplimientos desde entonces.",
    "riesgo": "primera_linea"
@@ -118,7 +122,9 @@
     "ypf energia electrica",
     "ypf luz"
    ],
-   "cuits": [],
+   "cuits": [
+    "30714128309"
+   ],
    "motivo": "Grupo YPF, AAA. Poco líquida: entra por calidad.",
    "historial_default": "Sin defaults.",
    "riesgo": "primera_linea"
@@ -129,7 +135,9 @@
    "claves": [
     "vaca muerta oil sur"
    ],
-   "cuits": [],
+   "cuits": [
+    "30718902645"
+   ],
    "motivo": "Oleoducto de YPF, Vista, PAE, Pampa y otras; muy líquida.",
    "historial_default": "Emisor nuevo, sin defaults.",
    "riesgo": "primera_linea"
@@ -141,7 +149,10 @@
     "banco de galicia y buenos aires",
     "banco galicia"
    ],
-   "cuits": [],
+   "cuits": [
+    "30500001735",
+    "30704962807"
+   ],
    "motivo": "Mayor banco privado del país, AAA.",
    "historial_default": "Reestructuró deuda en 2002-2004. Sin incumplimientos desde entonces.",
    "riesgo": "primera_linea"
@@ -152,7 +163,9 @@
    "claves": [
     "banco macro"
    ],
-   "cuits": [],
+   "cuits": [
+    "30500010084"
+   ],
    "motivo": "Banco top, AAA, líquida.",
    "historial_default": "Sin defaults conocidos.",
    "riesgo": "primera_linea"
@@ -163,7 +176,9 @@
    "claves": [
     "banco bbva argentina"
    ],
-   "cuits": [],
+   "cuits": [
+    "30500003193"
+   ],
    "motivo": "Banco top (grupo BBVA), AAA. Ilíquida: entra por calidad.",
    "historial_default": "Sin defaults conocidos.",
    "riesgo": "primera_linea"
@@ -176,7 +191,9 @@
     "loma negra ciasa",
     "loma negra"
    ],
-   "cuits": [],
+   "cuits": [
+    "30500530851"
+   ],
    "motivo": "Mayor cementera del país, AAA, líquida.",
    "historial_default": "Sin defaults conocidos.",
    "riesgo": "primera_linea"
@@ -187,7 +204,9 @@
    "claves": [
     "arcor"
    ],
-   "cuits": [],
+   "cuits": [
+    "30502793175"
+   ],
    "motivo": "Mayor alimenticia del país, AA+, líquida.",
    "historial_default": "Sin defaults conocidos.",
    "riesgo": "primera_linea"
@@ -215,7 +234,9 @@
     "cresud",
     "cresud saifa"
    ],
-   "cuits": [],
+   "cuits": [
+    "30509300700"
+   ],
    "motivo": "Controlante de IRSA, AAA, líquida.",
    "historial_default": "En 2020 canjeó ON por el cepo del BCRA (Com. A 7106), con 88% de aceptación (El Economista, nov 2020). No fue por falta de fondos.",
    "riesgo": "primera_linea"
@@ -226,7 +247,10 @@
    "claves": [
     "msu energy"
    ],
-   "cuits": [],
+   "cuits": [
+    "30714378402",
+    "30714155128"
+   ],
    "riesgo": "mayor_riesgo",
    "motivo": "Generadora térmica, ON líquidas (volumen diario ~USD 0,6 M). Entra por liquidez a pedido de Gaspar, marcada como de mayor riesgo.",
    "historial_default": "Canje de sus ON 2025 en 2024 (refinanciación con nuevas ON garantizadas)."
@@ -252,7 +276,9 @@
     "edenor",
     "empresa distribuidora y comercializadora norte"
    ],
-   "cuits": [],
+   "cuits": [
+    "30655116202"
+   ],
    "riesgo": "mayor_riesgo",
    "motivo": "Mayor distribuidora eléctrica del país, ON muy líquidas (~USD 1,3 M diarios). Entra por liquidez a pedido de Gaspar, marcada como de mayor riesgo.",
    "historial_default": "En 2022 canjeó sus ON 9,75% 2022 a 2025 en dos etapas (73-77% de aceptación), por falta de liquidez y las reglas del BCRA; fue un canje voluntario y Moody's no lo trató como default (PR Newswire mayo 2022, iProfesional oct 2022). En 2002-2003 también reestructuró deuda."
@@ -263,7 +289,9 @@
    "claves": [
     "central puerto"
    ],
-   "cuits": [],
+   "cuits": [
+    "33650305499"
+   ],
    "riesgo": "primera_linea",
    "motivo": "Mayor generadora privada del país, AA, ON líquidas.",
    "historial_default": "Sin defaults conocidos desde 2016."
@@ -275,7 +303,9 @@
     "john deere credit compania financiera",
     "john deere credit"
    ],
-   "cuits": [],
+   "cuits": [
+    "30707024859"
+   ],
    "riesgo": "primera_linea",
    "motivo": "Financiera del grupo Deere, ON líquidas (~USD 0,7 M diarios).",
    "historial_default": "Sin defaults conocidos."
