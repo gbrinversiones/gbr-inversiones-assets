@@ -1,11 +1,13 @@
 {
  "mercado_hoy": {
+  "dividendo:MSFT:2026-11-19": "2026-11-24",
   "earnings:BABA:2026-11-19": "2026-11-19",
   "earnings:DIS:2026-11-17": "2026-11-19",
   "earnings:HD:2026-11-17": "2026-11-19",
   "earnings:NVDA:2026-11-17": "2026-11-19",
   "earnings:SUPV.BA:2026-11-16": "2026-11-19",
   "earnings:WMT:2026-11-19": "2026-11-19",
+  "noticia:https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-ypf-consigue-la-aprobacion-del-rigi-para-la-millonaria-inversion-argentina-lng": "2026-11-24",
   "noticia:https://www.lanacion.com.ar/economia/el-ceo-de-ypf-proyecta-que-la-argentina-entrara-al-top-10-de-exportadores-de-petroleo-para-2030-nid19112026": "2026-11-19"
  }
 }
