@@ -18,6 +18,11 @@
  },
  "newsletter": {
   "dividendo:MSFT:2026-11-19": "2026-11-24",
-  "noticia:https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-ypf-consigue-la-aprobacion-del-rigi-para-la-millonaria-inversion-argentina-lng": "2026-11-24"
+  "earnings:BBAR.BA:2026-11-24": "2026-11-25",
+  "earnings:GGAL.BA:2026-11-24": "2026-11-25",
+  "noticia:https://www.bloomberglinea.com/latinoamerica/argentina/vaca-muerta-ypf-consigue-la-aprobacion-del-rigi-para-la-millonaria-inversion-argentina-lng": "2026-11-24",
+  "noticia:https://www.cronista.com/economia-politica/ypf-avanza-con-su-plan-para-el-norte-de-vaca-muerta-y-suma-un-nuevo-proyecto-al-rigi": "2026-11-25",
+  "noticia:https://www.infobae.com/economia/2026/11/24/narambuena-como-es-el-proyecto-para-desarrollar-el-norte-de-vaca-muerta-para-el-que-ypf-presento-un-nuevo-rigi": "2026-11-25",
+  "noticia:https://www.lanacion.com.ar/economia/ypf-presento-un-nuevo-rigi-por-us11688-millones-para-producir-petroleo-en-vaca-muerta-nid24112026": "2026-11-25"
  }
 }
