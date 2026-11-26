@@ -3761,8 +3761,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-26",
-   "ultimo_intento": "2026-11-13",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-25",
+   "intentos": 4,
    "emisor": "MIRGOR S.A.C.I.F.I.A.",
    "clase": "Clase VI"
   },
@@ -3841,8 +3841,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-13",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-25",
+   "intentos": 3,
    "emisor": "OTAMERICA EBYTEM S.A.",
    "clase": "Serie VI"
   },
@@ -3883,8 +3883,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-25",
+   "intentos": 3,
    "emisor": "COMPAÑIA GENERAL DE COMBUSTIBLES S.A.",
    "clase": "Clase XXXVI"
   },
@@ -3946,8 +3946,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-25",
+   "intentos": 3,
    "emisor": "ARCOR S.A.I.C.",
    "clase": "Clase V"
   },
@@ -3956,8 +3956,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-25",
+   "intentos": 3,
    "emisor": "COMPAÑIA MEGA S.A.",
    "clase": "Clase I"
   },
@@ -3966,8 +3966,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-25",
+   "intentos": 3,
    "emisor": "BANCO DE VALORES S.A.",
    "clase": "Serie I"
   },
@@ -4104,5 +4104,5 @@
    "clase": "Clase IV"
   }
  },
- "actualizado": "2026-11-25T13:50:04.589584+00:00"
+ "actualizado": "2026-11-26T13:50:38.119526+00:00"
 }
