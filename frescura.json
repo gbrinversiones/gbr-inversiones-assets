@@ -1,65 +1,65 @@
 {
- "generado": "2026-11-26T19:38:26.430987+00:00",
+ "generado": "2026-11-26T20:07:13.183193+00:00",
  "archivos": {
   "mercado_hoy": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:38:01.536641+00:00",
-   "edad_min": 0.4,
+   "generado": "2026-11-26T20:06:56.555974+00:00",
+   "edad_min": 0.3,
    "umbral_min": 90,
    "estado": "ok"
   },
   "ons": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:32:34.830000+00:00",
-   "edad_min": 5.9,
+   "generado": "2026-11-26T20:02:01.309916+00:00",
+   "edad_min": 5.2,
    "umbral_min": 90,
    "estado": "ok"
   },
   "bonos": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:31:18.340722+00:00",
-   "edad_min": 7.1,
+   "generado": "2026-11-26T20:01:14.337349+00:00",
+   "edad_min": 6.0,
    "umbral_min": 90,
    "estado": "ok"
   },
   "lecaps": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:32:42.049839+00:00",
-   "edad_min": 5.7,
+   "generado": "2026-11-26T20:02:05.138540+00:00",
+   "edad_min": 5.1,
    "umbral_min": 90,
    "estado": "ok"
   },
   "cer": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:32:47.741404+00:00",
-   "edad_min": 5.6,
+   "generado": "2026-11-26T20:02:09.183187+00:00",
+   "edad_min": 5.1,
    "umbral_min": 90,
    "estado": "ok"
   },
   "bopreal": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:33:02.918603+00:00",
-   "edad_min": 5.4,
+   "generado": "2026-11-26T20:02:19.918423+00:00",
+   "edad_min": 4.9,
    "umbral_min": 90,
    "estado": "ok"
   },
   "tasa_variable": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:33:04.979515+00:00",
-   "edad_min": 5.4,
+   "generado": "2026-11-26T20:02:21.378547+00:00",
+   "edad_min": 4.9,
    "umbral_min": 90,
    "estado": "ok"
   },
   "cronograma": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:38:20.243910+00:00",
+   "generado": "2026-11-26T20:07:07.950323+00:00",
    "edad_min": 0.1,
    "umbral_min": 90,
    "estado": "ok"
   },
   "calendario": {
    "tipo": "intradia",
-   "generado": "2026-11-26T19:38:22.109754+00:00",
+   "generado": "2026-11-26T20:07:09.320854+00:00",
    "edad_min": 0.1,
    "umbral_min": 90,
    "estado": "ok"
@@ -67,87 +67,87 @@
   "rf_kb": {
    "tipo": "diario",
    "generado": "2026-11-26T13:53:16.585103+00:00",
-   "edad_min": 345.2,
+   "edad_min": 373.9,
    "umbral_min": 1800,
    "estado": "ok"
   },
   "rf_terminos": {
    "tipo": "diario",
    "generado": "2026-11-26T14:02:26.100874+00:00",
-   "edad_min": 336.0,
+   "edad_min": 364.8,
    "umbral_min": 1800,
    "estado": "ok"
   },
   "ons_byma": {
    "tipo": "diario",
    "generado": "2026-11-26T13:56:52.419952+00:00",
-   "edad_min": 341.6,
+   "edad_min": 370.3,
    "umbral_min": 1800,
    "estado": "ok"
   },
   "bonos_byma": {
    "tipo": "diario",
    "generado": "2026-11-26T13:56:52.419952+00:00",
-   "edad_min": 341.6,
+   "edad_min": 370.3,
    "umbral_min": 1800,
    "estado": "ok"
   },
   "ars_byma": {
    "tipo": "diario",
    "generado": "2026-11-26T13:56:52.419952+00:00",
-   "edad_min": 341.6,
+   "edad_min": 370.3,
    "umbral_min": 1800,
    "estado": "ok"
   },
   "validacion_byma": {
    "tipo": "diario",
    "generado": "2026-11-26T13:57:16.565762+00:00",
-   "edad_min": 341.2,
+   "edad_min": 369.9,
    "umbral_min": 1800,
    "estado": "ok"
   },
   "rf_vigilante": {
    "tipo": "diario",
    "generado": "2026-11-26T13:46:17.003922+00:00",
-   "edad_min": 352.2,
+   "edad_min": 380.9,
    "umbral_min": 1800,
    "estado": "ok"
   },
   "sp500": {
    "tipo": "serie",
-   "generado": "2026-11-26T19:32:52.852154+00:00",
-   "edad_min": 5.6,
+   "generado": "2026-11-26T20:02:12.562107+00:00",
+   "edad_min": 5.0,
    "umbral_min": 7200,
    "estado": "ok",
    "ultimo_dato": "2026-11-25"
   },
   "merval_usd": {
    "tipo": "serie",
-   "generado": "2026-11-26T19:38:06.479337+00:00",
-   "edad_min": 0.3,
+   "generado": "2026-11-26T20:06:59.367688+00:00",
+   "edad_min": 0.2,
    "umbral_min": 7200,
    "estado": "ok",
    "ultimo_dato": "2026-11-26"
   },
   "riesgo_pais": {
    "tipo": "serie",
-   "generado": "2026-11-26T19:32:58.395315+00:00",
-   "edad_min": 5.5,
+   "generado": "2026-11-26T20:02:16.866223+00:00",
+   "edad_min": 4.9,
    "umbral_min": 7200,
    "estado": "ok",
    "ultimo_dato": "2026-11-26"
   },
   "reservas_bcra": {
    "tipo": "serie",
-   "generado": "2026-11-26T19:32:56.050293+00:00",
-   "edad_min": 5.5,
+   "generado": "2026-11-26T20:02:15.142433+00:00",
+   "edad_min": 5.0,
    "umbral_min": 7200,
    "estado": "ok",
    "ultimo_dato": "2026-11-20"
   },
   "series_ars": {
    "tipo": "serie",
-   "generado": "2026-11-26T19:38:23.446097+00:00",
+   "generado": "2026-11-26T20:07:10.700546+00:00",
    "edad_min": 0.0,
    "umbral_min": 7200,
    "estado": "ok"
