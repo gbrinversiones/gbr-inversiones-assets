@@ -3791,8 +3791,8 @@
     "el numero de la tasa no aparece en su cita"
    ],
    "desde": "2026-10-27",
-   "ultimo_intento": "2026-11-13",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-26",
+   "intentos": 4,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXXI"
   },
@@ -3831,8 +3831,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-10-30",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 3,
+   "ultimo_intento": "2026-11-26",
+   "intentos": 4,
    "emisor": "EDESA S.A.",
    "clase": "Clase II"
   },
@@ -3869,12 +3869,11 @@
   "SBC2O": {
    "motivos": [
     "cita_tasa no figura textualmente en el aviso",
-    "cita_vencimiento no figura textualmente en el aviso",
     "tasa del aviso 7.49 distinta de la de BYMA 74.9"
    ],
    "desde": "2026-11-04",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-26",
+   "intentos": 3,
    "emisor": "SCANIA CREDIT ARGENTINA S.A.U.",
    "clase": "Clase II"
   },
@@ -3893,8 +3892,8 @@
     "no se encontro un Aviso de Resultados en la CNV que mencione el vencimiento"
    ],
    "desde": "2026-11-05",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-26",
+   "intentos": 3,
    "emisor": "EDEMSA S.A.",
    "clase": "Clase VIII"
   },
@@ -3926,8 +3925,8 @@
     "cita_amortizacion no figura textualmente en el aviso"
    ],
    "desde": "2026-11-06",
-   "ultimo_intento": "2026-11-16",
-   "intentos": 2,
+   "ultimo_intento": "2026-11-26",
+   "intentos": 3,
    "emisor": "YPF ENERGIA ELECTRICA S.A.",
    "clase": "Clase XX"
   },
@@ -4064,12 +4063,11 @@
   },
   "BY34O": {
    "motivos": [
-    "el numero de la tasa no aparece en su cita",
     "las fechas de cupon futuras del aviso no coinciden con las de BYMA (solo aviso: ['2027-03-01', '2027-08-31', '2028-03-01'], solo BYMA: ['2027-02-28', '2027-08-28', '2028-02-28'])"
    ],
    "desde": "2026-11-17",
-   "ultimo_intento": "2026-11-17",
-   "intentos": 1,
+   "ultimo_intento": "2026-11-26",
+   "intentos": 2,
    "emisor": "BANCO DE GALICIA Y BUENOS AIRES S.A.",
    "clase": "Clase XXXIV"
   },
@@ -4104,5 +4102,5 @@
    "clase": "Clase IV"
   }
  },
- "actualizado": "2026-11-26T13:50:38.119526+00:00"
+ "actualizado": "2026-11-27T13:49:09.221695+00:00"
 }
